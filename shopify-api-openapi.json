@@ -1,0 +1,4801 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "version": "",
+        "title": "Shopify API",
+        "description": "TODO: Add Description",
+        "termsOfService": ""
+    },
+    "servers": [
+        "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/"
+    ],
+    "paths": {
+        "\/admin\/custom_collections.json": {
+            "get": {
+                "summary": "Get a list of all custom collections",
+                "description": "Get a list of all custom collections.",
+                "operationId": "GetAdminCustomCollectionsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "post": {
+                "summary": "Create a new custom collection",
+                "description": "Create a new custom collection.",
+                "operationId": "PostAdminCustomCollectionsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/script_tags\/373484.json": {
+            "get": {
+                "summary": "Get a single  script tag",
+                "description": "Get a single  script tag.",
+                "operationId": "GetAdminScriptTags373484Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/comments\/2941387470.json": {
+            "put": {
+                "summary": "Update a comment",
+                "description": "Update a comment.",
+                "operationId": "PutAdminComments2941387470Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/smart_collections\/401912846.json": {
+            "get": {
+                "summary": "Get a single collection",
+                "description": "Get a single collection.",
+                "operationId": "GetAdminSmartCollections401912846Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "put": {
+                "summary": "Update a single collection",
+                "description": "Update a single collection.",
+                "operationId": "PutAdminSmartCollections401912846Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/products\/9579007950.json": {
+            "put": {
+                "summary": "Update a product and one of its variants",
+                "description": "Update a product and one of its variants.",
+                "operationId": "PutAdminProducts9579007950Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "delete": {
+                "summary": "Remove a product from the shop",
+                "description": "Remove a product from the shop.",
+                "operationId": "DeleteAdminProducts9579007950Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/orders\/4554953422\/refunds\/calculate.json": {
+            "post": {
+                "summary": "Calculate a refund for a line item and shipping",
+                "description": "Calculate a refund for a line item and shipping.",
+                "operationId": "PostAdminOrders4554953422RefundsCalculateJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/collects.json": {
+            "get": {
+                "summary": "List all collects",
+                "description": "List all collects.",
+                "operationId": "GetAdminCollectsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/blogs\/62581763\/articles.json": {
+            "get": {
+                "summary": "Get a list of all articles from a certain blog",
+                "description": "Get a list of all articles from a certain blog.",
+                "operationId": "GetAdminBlogs62581763ArticlesJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "post": {
+                "summary": "Create a new article for a blog",
+                "description": "Create a new article for a blog.",
+                "operationId": "PostAdminBlogs62581763ArticlesJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/metafields.json": {
+            "get": {
+                "summary": "Get all metafields that belong to a store",
+                "description": "Get all metafields that belong to a store.",
+                "operationId": "GetAdminMetafieldsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "post": {
+                "summary": "Create a new metafield for a store.",
+                "description": "Create a new metafield for a store..",
+                "operationId": "PostAdminMetafieldsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/gift_cards\/61810574\/disable.json": {
+            "post": {
+                "summary": "Disable a gift card",
+                "description": "Disable a gift card.",
+                "operationId": "PostAdminGiftCards61810574DisableJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/webhooks\/503738446.json": {
+            "put": {
+                "summary": "Update a Webhook",
+                "description": "Update a webhook.",
+                "operationId": "PutAdminWebhooks503738446Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "delete": {
+                "summary": "Delete a Webhook",
+                "description": "Delete a webhook.",
+                "operationId": "DeleteAdminWebhooks503738446Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/blogs\/62581763\/articles\/196805774.json": {
+            "get": {
+                "summary": "Get a single article by its ID and the ID of the parent blog",
+                "description": "Get a single article by its id and the id of the parent blog.",
+                "operationId": "GetAdminBlogs62581763Articles196805774Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "put": {
+                "summary": "Update an article",
+                "description": "Update an article.",
+                "operationId": "PutAdminBlogs62581763Articles196805774Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/metafields\/33145232974.json": {
+            "get": {
+                "summary": "Get a single store metafield by ID",
+                "description": "Get a single store metafield by id.",
+                "operationId": "GetAdminMetafields33145232974Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "put": {
+                "summary": "Update an existing store metafield.",
+                "description": "Update an existing store metafield..",
+                "operationId": "PutAdminMetafields33145232974Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "delete": {
+                "summary": "Delete a store metafield",
+                "description": "Delete a store metafield.",
+                "operationId": "DeleteAdminMetafields33145232974Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/orders\/4554953422\/cancel.json": {
+            "post": {
+                "summary": "Canceling an Order",
+                "description": "Canceling an order.",
+                "operationId": "PostAdminOrders4554953422CancelJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/gift_cards\/61466894.json": {
+            "get": {
+                "summary": "Show a specific gift card's details",
+                "description": "Show a specific gift card's details.",
+                "operationId": "GetAdminGiftCards61466894Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/orders\/4554953422\/close.json": {
+            "post": {
+                "summary": "Close a processed order",
+                "description": "Close a processed order.",
+                "operationId": "PostAdminOrders4554953422CloseJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/orders\/4602125518\/risks.json": {
+            "get": {
+                "summary": "Get all Order Risks for an Order",
+                "description": "Get all order risks for an order.",
+                "operationId": "GetAdminOrders4602125518RisksJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "post": {
+                "summary": "Add a fraud risk for Proxy detection",
+                "description": "Add a fraud risk for proxy detection.",
+                "operationId": "PostAdminOrders4602125518RisksJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/blogs.json": {
+            "get": {
+                "summary": "Get a list of all blogs",
+                "description": "Get a list of all blogs.",
+                "operationId": "GetAdminBlogsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "post": {
+                "summary": "Create a new blog",
+                "description": "Create a new blog.",
+                "operationId": "PostAdminBlogsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/policies.json": {
+            "get": {
+                "summary": "getting the shops policies",
+                "description": "Getting the shops policies.",
+                "operationId": "GetAdminPoliciesJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/orders\/4554953422\/events.json": {
+            "get": {
+                "summary": "Get all the events from a particular order",
+                "description": "Get all the events from a particular order.",
+                "operationId": "GetAdminOrders4554953422EventsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/pages\/count.json": {
+            "get": {
+                "summary": "Count all pages for a shop",
+                "description": "Count all pages for a shop.",
+                "operationId": "GetAdminPagesCountJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/orders\/4554953422\/transactions\/count.json": {
+            "get": {
+                "summary": "Get a count of transactions for an order",
+                "description": "Get a count of transactions for an order.",
+                "operationId": "GetAdminOrders4554953422TransactionsCountJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/gift_cards\/count.json": {
+            "get": {
+                "summary": "Retrieve a count of all gift cards",
+                "description": "Retrieve a count of all gift cards.",
+                "operationId": "GetAdminGiftCardsCountJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/countries.json": {
+            "get": {
+                "summary": "Get a list of all countries",
+                "description": "Get a list of all countries.",
+                "operationId": "GetAdminCountriesJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "post": {
+                "summary": "Create a country",
+                "description": "Create a country.",
+                "operationId": "PostAdminCountriesJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/fulfillment_services.json": {
+            "get": {
+                "summary": "List your app's fulfillment services",
+                "description": "List your app's fulfillment services.",
+                "operationId": "GetAdminFulfillmentServicesJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "post": {
+                "summary": "Create a fulfillment service",
+                "description": "Create a fulfillment service.",
+                "operationId": "PostAdminFulfillmentServicesJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/pages\/216307854.json": {
+            "put": {
+                "summary": "update a page",
+                "description": "Update a page.",
+                "operationId": "PutAdminPages216307854Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "delete": {
+                "summary": "Delete a page",
+                "description": "Delete a page.",
+                "operationId": "DeleteAdminPages216307854Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/customers\/3989659651\/addresses\/5484465742.json": {
+            "put": {
+                "summary": "Updating a customers postal code",
+                "description": "Updating a customers postal code.",
+                "operationId": "PutAdminCustomers3989659651Addresses5484465742Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "delete": {
+                "summary": "Removing a customers address",
+                "description": "Removing a customers address.",
+                "operationId": "DeleteAdminCustomers3989659651Addresses5484465742Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/customers\/search.json": {
+            "get": {
+                "summary": "Get all customers with an address in the Brazil",
+                "description": "Get all customers with an address in the brazil.",
+                "operationId": "GetAdminCustomersSearchJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "query",
+                        "in": "query",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/application_charges.json": {
+            "get": {
+                "summary": "Retrieving all one-time charges since a specified ID",
+                "description": "Retrieving all one-time charges since a specified id.",
+                "operationId": "GetAdminApplicationChargesJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "since_id",
+                        "in": "query",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "post": {
+                "summary": "Create a new one-time application charge.",
+                "description": "Create a new one-time application charge..",
+                "operationId": "PostAdminApplicationChargesJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/blogs\/62581763\/articles\/count.json": {
+            "get": {
+                "summary": "Get a count of all articles from a certain blog",
+                "description": "Get a count of all articles from a certain blog.",
+                "operationId": "GetAdminBlogs62581763ArticlesCountJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/metafields\/count.json": {
+            "get": {
+                "summary": "Get a count of all metafields for a store",
+                "description": "Get a count of all metafields for a store.",
+                "operationId": "GetAdminMetafieldsCountJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/custom_collections\/246409795.json": {
+            "get": {
+                "summary": "Get a single custom collections",
+                "description": "Get a single custom collections.",
+                "operationId": "GetAdminCustomCollections246409795Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "put": {
+                "summary": "update a custom collection",
+                "description": "Update a custom collection.",
+                "operationId": "PutAdminCustomCollections246409795Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "delete": {
+                "summary": "delete a custom collection",
+                "description": "Delete a custom collection.",
+                "operationId": "DeleteAdminCustomCollections246409795Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/\/admin\/comments.json": {
+            "post": {
+                "summary": "Create a new comment for an article",
+                "description": "Create a new comment for an article.",
+                "operationId": "PostAdminCommentsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/customers\/3989659651\/addresses.json": {
+            "get": {
+                "summary": "Get all of a customer's addresses",
+                "description": "Get all of a customer's addresses.",
+                "operationId": "GetAdminCustomers3989659651AddressesJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "post": {
+                "summary": "Creating a new address for a customer",
+                "description": "Creating a new address for a customer.",
+                "operationId": "PostAdminCustomers3989659651AddressesJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/comments\/#{id}.json": {
+            "get": {
+                "summary": "Get a single comment",
+                "description": "Get a single comment.",
+                "operationId": "GetAdminComments#Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    },
+                    {
+                        "name": "id",
+                        "in": "path",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/gift_cards.json": {
+            "get": {
+                "summary": "Get a list of all gift cards",
+                "description": "Get a list of all gift cards.",
+                "operationId": "GetAdminGiftCardsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "post": {
+                "summary": "Create a new gift card with an automatically generated code",
+                "description": "Create a new gift card with an automatically generated code.",
+                "operationId": "PostAdminGiftCardsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/articles\/tags.json": {
+            "get": {
+                "summary": "Get a list of all the tags of articles",
+                "description": "Get a list of all the tags of articles.",
+                "operationId": "GetAdminArticlesTagsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/orders\/4602125518\/risks\/8609858574.json": {
+            "get": {
+                "summary": "Get a single Order Risk",
+                "description": "Get a single order risk.",
+                "operationId": "GetAdminOrders4602125518Risks8609858574Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "put": {
+                "summary": "Update an existing risk detail line on an order",
+                "description": "Update an existing risk detail line on an order.",
+                "operationId": "PutAdminOrders4602125518Risks8609858574Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "delete": {
+                "summary": "Delete an erroneous risk entry",
+                "description": "Delete an erroneous risk entry.",
+                "operationId": "DeleteAdminOrders4602125518Risks8609858574Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/orders\/4495703502\/fulfillments.json": {
+            "get": {
+                "summary": "Get a list of all fulfillments for an order.",
+                "description": "Get a list of all fulfillments for an order..",
+                "operationId": "GetAdminOrders4495703502FulfillmentsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/variants\/34705478094.json": {
+            "put": {
+                "summary": "Update an existing product variant",
+                "description": "Update an existing product variant.",
+                "operationId": "PutAdminVariants34705478094Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/customer_saved_searches\/1189248515\/customers.json": {
+            "get": {
+                "summary": "Get all customers who match the criteria",
+                "description": "Get all customers who match the criteria.",
+                "operationId": "GetAdminCustomerSavedSearches1189248515CustomersJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/orders\/4554953422\/refunds.json": {
+            "get": {
+                "summary": "Get all refunds from a specific order",
+                "description": "Get all refunds from a specific order.",
+                "operationId": "GetAdminOrders4554953422RefundsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "post": {
+                "summary": "Create a new refund for an order",
+                "description": "Create a new refund for an order.",
+                "operationId": "PostAdminOrders4554953422RefundsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/orders\/4528049998\/fulfillments\/3770145678\/cancel.json": {
+            "post": {
+                "summary": "Cancel a fulfillment.",
+                "description": "Cancel a fulfillment..",
+                "operationId": "PostAdminOrders4528049998Fulfillments3770145678CancelJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/orders\/4554953422.json": {
+            "get": {
+                "summary": "Get a representation of a single order",
+                "description": "Get a representation of a single order.",
+                "operationId": "GetAdminOrders4554953422Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "put": {
+                "summary": "Update an order",
+                "description": "Update an order.",
+                "operationId": "PutAdminOrders4554953422Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "delete": {
+                "summary": "Delete an order.",
+                "description": "Delete an order..",
+                "operationId": "DeleteAdminOrders4554953422Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/orders\/4554953422\/open.json": {
+            "post": {
+                "summary": "Re-opening a closed Order",
+                "description": "Re-opening a closed order.",
+                "operationId": "PostAdminOrders4554953422OpenJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/orders\/4528049998\/fulfillments\/3770145678\/complete.json": {
+            "post": {
+                "summary": "Complete a fulfillment.",
+                "description": "Complete a fulfillment..",
+                "operationId": "PostAdminOrders4528049998Fulfillments3770145678CompleteJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/smart_collections.json": {
+            "get": {
+                "summary": "Get all collection",
+                "description": "Get all collection.",
+                "operationId": "GetAdminSmartCollectionsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "post": {
+                "summary": "Create a new collection",
+                "description": "Create a new collection.",
+                "operationId": "PostAdminSmartCollectionsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/orders\/4495703502\/fulfillments\/3763917198\/events\/9519874062.json": {
+            "delete": {
+                "summary": "Delete a fulfillment event.",
+                "description": "Delete a fulfillment event..",
+                "operationId": "DeleteAdminOrders4495703502Fulfillments3763917198Events9519874062Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/events\/58706658318.json": {
+            "get": {
+                "summary": "Shows the same fields as the list action.",
+                "description": "Shows the same fields as the list action..",
+                "operationId": "GetAdminEvents58706658318Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/locations\/8790723.json": {
+            "get": {
+                "summary": "Get a single location",
+                "description": "Get a single location.",
+                "operationId": "GetAdminLocations8790723Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/products\/7990943555\/images.json": {
+            "get": {
+                "summary": "Get all product images",
+                "description": "Get all product images.",
+                "operationId": "GetAdminProducts7990943555ImagesJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "post": {
+                "summary": "Create a new product image",
+                "description": "Create a new product image.",
+                "operationId": "PostAdminProducts7990943555ImagesJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/webhooks.json": {
+            "get": {
+                "summary": "Get a list of all webhooks for your shop.",
+                "description": "Get a list of all webhooks for your shop..",
+                "operationId": "GetAdminWebhooksJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "post": {
+                "summary": "Create a webhook",
+                "description": "Create a webhook.",
+                "operationId": "PostAdminWebhooksJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/products\/7990943555\/metafields\/count.json": {
+            "get": {
+                "summary": "Get a count of all metafields that belong to a product",
+                "description": "Get a count of all metafields that belong to a product.",
+                "operationId": "GetAdminProducts7990943555MetafieldsCountJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/orders.json": {
+            "get": {
+                "summary": "Get all orders from a customer",
+                "description": "Get all orders from a customer.",
+                "operationId": "GetAdminOrdersJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "customer_id",
+                        "in": "query",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "post": {
+                "summary": "Create a pending order with an existing customer",
+                "description": "Create a pending order with an existing customer.",
+                "operationId": "PostAdminOrdersJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/webhooks\/count.json": {
+            "get": {
+                "summary": "Get a count of all webhooks for your shop.",
+                "description": "Get a count of all webhooks for your shop..",
+                "operationId": "GetAdminWebhooksCountJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/countries\/444574734.json": {
+            "put": {
+                "summary": "update a country",
+                "description": "Update a country.",
+                "operationId": "PutAdminCountries444574734Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "delete": {
+                "summary": "delete a country",
+                "description": "Delete a country.",
+                "operationId": "DeleteAdminCountries444574734Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/carrier_services.json": {
+            "get": {
+                "summary": "List carrier services",
+                "description": "List carrier services.",
+                "operationId": "GetAdminCarrierServicesJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "post": {
+                "summary": "Create a carrier service",
+                "description": "Create a carrier service.",
+                "operationId": "PostAdminCarrierServicesJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/collects\/20713233987.json": {
+            "get": {
+                "summary": "Return a collect with a certain id",
+                "description": "Return a collect with a certain id.",
+                "operationId": "GetAdminCollects20713233987Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/discounts\/2951196163.json": {
+            "get": {
+                "summary": "Retrieve a discount",
+                "description": "Retrieve a discount.",
+                "operationId": "GetAdminDiscounts2951196163Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "delete": {
+                "summary": "Delete a discount",
+                "description": "Delete a discount.",
+                "operationId": "DeleteAdminDiscounts2951196163Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/fulfillment_services\/1357646.json": {
+            "get": {
+                "summary": "Get a single fulfillment service by its ID",
+                "description": "Get a single fulfillment service by its id.",
+                "operationId": "GetAdminFulfillmentServices1357646Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "put": {
+                "summary": "Update a fulfillment service",
+                "description": "Update a fulfillment service.",
+                "operationId": "PutAdminFulfillmentServices1357646Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "delete": {
+                "summary": "Destroy a fulfillment service",
+                "description": "Destroy a fulfillment service.",
+                "operationId": "DeleteAdminFulfillmentServices1357646Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/customers\/3989659651\/addresses\/5436816654\/default.json": {
+            "put": {
+                "summary": "assigning a new default address to a customer",
+                "description": "Assigning a new default address to a customer.",
+                "operationId": "PutAdminCustomers3989659651Addresses5436816654DefaultJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/products\/7990943555\/variants\/count.json": {
+            "get": {
+                "summary": "Get a count of variants for a product",
+                "description": "Get a count of variants for a product.",
+                "operationId": "GetAdminProducts7990943555VariantsCountJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/pages.json": {
+            "get": {
+                "summary": "Get a list of all pages",
+                "description": "Get a list of all pages.",
+                "operationId": "GetAdminPagesJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "post": {
+                "summary": "Create a new page",
+                "description": "Create a new page.",
+                "operationId": "PostAdminPagesJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/comments\/2941387470\/spam.json": {
+            "post": {
+                "summary": "Mark a comment as Spam",
+                "description": "Mark a comment as spam.",
+                "operationId": "PostAdminComments2941387470SpamJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/customers\/3989659651\/addresses\/set.json": {
+            "put": {
+                "summary": "destroying multiple customer addresses",
+                "description": "Destroying multiple customer addresses.",
+                "operationId": "PutAdminCustomers3989659651AddressesSetJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "address_ids[]",
+                        "in": "query",
+                        "description": ""
+                    },
+                    {
+                        "name": "operation",
+                        "in": "query",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/\/variants\/25831837123.json": {
+            "get": {
+                "summary": "Get a product variant by id",
+                "description": "Get a product variant by id.",
+                "operationId": "GetAdminVariants25831837123Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/themes\/110163843\/assets.json": {
+            "get": {
+                "summary": "Get a list of all theme assets",
+                "description": "Get a list of all theme assets.",
+                "operationId": "GetAdminThemes110163843AssetsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "put": {
+                "summary": "Change an existing liquid template's value",
+                "description": "Change an existing liquid template's value.",
+                "operationId": "PutAdminThemes110163843AssetsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "delete": {
+                "summary": "Remove assets from your shop",
+                "description": "Remove assets from your shop.",
+                "operationId": "DeleteAdminThemes110163843AssetsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/redirects\/count.json": {
+            "get": {
+                "summary": "Get a countt of all URL redirect",
+                "description": "Get a countt of all url redirect.",
+                "operationId": "GetAdminRedirectsCountJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/account\/login": {
+            "post": {
+                "summary": "Hack Authentication",
+                "description": "Hack authentication.",
+                "operationId": "PostAccountLogin",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "customer[email]",
+                        "in": "formData",
+                        "description": ""
+                    },
+                    {
+                        "name": "customer[{{password}}]",
+                        "in": "formData",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/comments.json": {
+            "get": {
+                "summary": "Get a list of all comments",
+                "description": "Get a list of all comments.",
+                "operationId": "GetAdminCommentsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/products\/7990943555\/images\/19489404942.json": {
+            "get": {
+                "summary": "Get a single product image by id",
+                "description": "Get a single product image by id.",
+                "operationId": "GetAdminProducts7990943555Images19489404942Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "put": {
+                "summary": "Modify an existing product image",
+                "description": "Modify an existing product image.",
+                "operationId": "PutAdminProducts7990943555Images19489404942Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "delete": {
+                "summary": "Delete a product image",
+                "description": "Delete a product image.",
+                "operationId": "DeleteAdminProducts7990943555Images19489404942Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/comments\/2941387470\/remove.json": {
+            "post": {
+                "summary": "Remove a comment",
+                "description": "Remove a comment.",
+                "operationId": "PostAdminComments2941387470RemoveJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/countries\/261414723\/provinces\/count.json": {
+            "get": {
+                "summary": "Get a count of all provinces",
+                "description": "Get a count of all provinces.",
+                "operationId": "GetAdminCountries261414723ProvincesCountJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/products\/7990943555\/variants.json": {
+            "get": {
+                "summary": "Get all variants for a product",
+                "description": "Get all variants for a product.",
+                "operationId": "GetAdminProducts7990943555VariantsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "post": {
+                "summary": "Create a new product variant",
+                "description": "Create a new product variant.",
+                "operationId": "PostAdminProducts7990943555VariantsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/themes\/110163843.json": {
+            "get": {
+                "summary": "Get a single theme",
+                "description": "Get a single theme.",
+                "operationId": "GetAdminThemes110163843Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/customers\/5438892686.json": {
+            "put": {
+                "summary": "Add metafield to an existing customer",
+                "description": "Add metafield to an existing customer.",
+                "operationId": "PutAdminCustomers5438892686Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "delete": {
+                "summary": "Remove an existing customer",
+                "description": "Remove an existing customer.",
+                "operationId": "DeleteAdminCustomers5438892686Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/customer_saved_searches\/count.json": {
+            "get": {
+                "summary": "Get a count of all customer saved searches",
+                "description": "Get a count of all customer saved searches.",
+                "operationId": "GetAdminCustomerSavedSearchesCountJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/gift_cards\/61810574.json": {
+            "put": {
+                "summary": "Update the expiry date of a gift card",
+                "description": "Update the expiry date of a gift card.",
+                "operationId": "PutAdminGiftCards61810574Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/discounts.json": {
+            "get": {
+                "summary": "List all discounts",
+                "description": "List all discounts.",
+                "operationId": "GetAdminDiscountsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "post": {
+                "summary": "Create a discount",
+                "description": "Create a discount.",
+                "operationId": "PostAdminDiscountsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/orders\/4528049998\/fulfillments\/3770145678.json": {
+            "get": {
+                "summary": "Get the Representation of a specific fulfillment.",
+                "description": "Get the representation of a specific fulfillment..",
+                "operationId": "GetAdminOrders4528049998Fulfillments3770145678Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "put": {
+                "summary": "Update tracking number for a fulfillment.",
+                "description": "Update tracking number for a fulfillment..",
+                "operationId": "PutAdminOrders4528049998Fulfillments3770145678Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/blogs\/92408974.json": {
+            "put": {
+                "summary": "Update a blog",
+                "description": "Update a blog.",
+                "operationId": "PutAdminBlogs92408974Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "delete": {
+                "summary": "Delete a blog",
+                "description": "Delete a blog.",
+                "operationId": "DeleteAdminBlogs92408974Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/locations.json": {
+            "get": {
+                "summary": "Get a list of all locations for a shop",
+                "description": "Get a list of all locations for a shop.",
+                "operationId": "GetAdminLocationsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/orders\/4528049998\/fulfillments\/3770145678\/events\/#{event_id}.json": {
+            "get": {
+                "summary": "Fetch a fulfillment event.",
+                "description": "Fetch a fulfillment event..",
+                "operationId": "GetAdminOrders4528049998Fulfillments3770145678Events#EventJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    },
+                    {
+                        "name": "event_id",
+                        "in": "path",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/carrier_services\/13841038.json": {
+            "get": {
+                "summary": "Update a carrier service",
+                "description": "Update a carrier service.",
+                "operationId": "GetAdminCarrierServices13841038Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "delete": {
+                "summary": "Destroy a carrier service",
+                "description": "Destroy a carrier service.",
+                "operationId": "DeleteAdminCarrierServices13841038Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/orders\/4554953422\/transactions.json": {
+            "get": {
+                "summary": "Get all transactions for an order",
+                "description": "Get all transactions for an order.",
+                "operationId": "GetAdminOrders4554953422TransactionsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "post": {
+                "summary": "Capture a previously authorized order for the full amount",
+                "description": "Capture a previously authorized order for the full amount.",
+                "operationId": "PostAdminOrders4554953422TransactionsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/orders\/4528049998\/fulfillments\/3770145678\/open.json": {
+            "post": {
+                "summary": "Transition a fulfillment from pending to open.",
+                "description": "Transition a fulfillment from pending to open..",
+                "operationId": "PostAdminOrders4528049998Fulfillments3770145678OpenJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/blogs\/62581763\/articles\/197247246.json": {
+            "delete": {
+                "summary": "Delete an article of a blog tags of articles",
+                "description": "Delete an article of a blog tags of articles.",
+                "operationId": "DeleteAdminBlogs62581763Articles197247246Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/comments\/2941387470\/approve.json": {
+            "post": {
+                "summary": "Approve a comment",
+                "description": "Approve a comment.",
+                "operationId": "PostAdminComments2941387470ApproveJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/checkouts.json": {
+            "get": {
+                "summary": "List all abandoned checkouts",
+                "description": "List all abandoned checkouts.",
+                "operationId": "GetAdminCheckoutsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/redirects\/293743566.json": {
+            "put": {
+                "summary": "Update a redirect",
+                "description": "Update a redirect.",
+                "operationId": "PutAdminRedirects293743566Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "delete": {
+                "summary": "delete a redirect",
+                "description": "Delete a redirect.",
+                "operationId": "DeleteAdminRedirects293743566Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/gift_cards\/search.json": {
+            "get": {
+                "summary": "Get all gift cards that matches the query",
+                "description": "Get all gift cards that matches the query.",
+                "operationId": "GetAdminGiftCardsSearchJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "query",
+                        "in": "query",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/customer_saved_searches.json": {
+            "get": {
+                "summary": "Get all customer saved searches for a shop",
+                "description": "Get all customer saved searches for a shop.",
+                "operationId": "GetAdminCustomerSavedSearchesJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "post": {
+                "summary": "Create a new Customer Saved Search",
+                "description": "Create a new customer saved search.",
+                "operationId": "PostAdminCustomerSavedSearchesJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/customers\/3989659651.json": {
+            "get": {
+                "summary": "Get a single customer by ID",
+                "description": "Get a single customer by id.",
+                "operationId": "GetAdminCustomers3989659651Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/products\/count.json": {
+            "get": {
+                "summary": "Count all products",
+                "description": "Count all products.",
+                "operationId": "GetAdminProductsCountJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/redirects.json": {
+            "get": {
+                "summary": "Get a list of all URL redirect",
+                "description": "Get a list of all url redirect.",
+                "operationId": "GetAdminRedirectsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "post": {
+                "summary": "Create a new redirect.",
+                "description": "Create a new redirect..",
+                "operationId": "PostAdminRedirectsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/orders\/count.json": {
+            "get": {
+                "summary": "Count all orders",
+                "description": "Count all orders.",
+                "operationId": "GetAdminOrdersCountJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/collects\/921728736.json": {
+            "delete": {
+                "summary": "Remove a product from a collection",
+                "description": "Remove a product from a collection.",
+                "operationId": "DeleteAdminCollects921728736Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/orders\/4528049998\/fulfillments\/3770145678\/events.json": {
+            "get": {
+                "summary": "Get a list of all fulfillment events for a fulfillment",
+                "description": "Get a list of all fulfillment events for a fulfillment.",
+                "operationId": "GetAdminOrders4528049998Fulfillments3770145678EventsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/comments\/2941387470\/not_spam.json": {
+            "post": {
+                "summary": "Mark a comment as not spam",
+                "description": "Mark a comment as not spam.",
+                "operationId": "PostAdminComments2941387470NotSpamJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/products\/7990943555\/images\/count.json": {
+            "get": {
+                "summary": "Get a count of all product images",
+                "description": "Get a count of all product images.",
+                "operationId": "GetAdminProducts7990943555ImagesCountJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/script_tags.json": {
+            "get": {
+                "summary": "Get a list of all script tags",
+                "description": "Get a list of all script tags.",
+                "operationId": "GetAdminScriptTagsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "post": {
+                "summary": "create a new script tag",
+                "description": "Create a new script tag.",
+                "operationId": "PostAdminScriptTagsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/orders\/4495703502\/fulfillments\/3763917198\/events.json": {
+            "post": {
+                "summary": "Create a fulfillment event.",
+                "description": "Create a fulfillment event..",
+                "operationId": "PostAdminOrders4495703502Fulfillments3763917198EventsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/customers\/count.json": {
+            "get": {
+                "summary": "Get a count of all customers",
+                "description": "Get a count of all customers.",
+                "operationId": "GetAdminCustomersCountJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/orders\/4554953422\/transactions\/5016037966.json": {
+            "get": {
+                "summary": "Get a specific transaction",
+                "description": "Get a specific transaction.",
+                "operationId": "GetAdminOrders4554953422Transactions5016037966Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/application_charges\/1.json": {
+            "get": {
+                "summary": "Retrieve one-time application charge",
+                "description": "Retrieve one-time application charge.",
+                "operationId": "GetAdminApplicationCharges1Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/orders\/4528049998\/fulfillments\/count.json": {
+            "get": {
+                "summary": "Count all the total number of fulfillments for an order.",
+                "description": "Count all the total number of fulfillments for an order..",
+                "operationId": "GetAdminOrders4528049998FulfillmentsCountJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/application_charges\/675931192\/activate.json": {
+            "post": {
+                "summary": "Activate a one-time charge",
+                "description": "Activate a one-time charge.",
+                "operationId": "PostAdminApplicationCharges675931192ActivateJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/shop.json": {
+            "get": {
+                "summary": "Get the configuration of the shop account",
+                "description": "Get the configuration of the shop account.",
+                "operationId": "GetAdminShopJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/blogs\/62581763.json": {
+            "get": {
+                "summary": "Get a single blog by its ID",
+                "description": "Get a single blog by its id.",
+                "operationId": "GetAdminBlogs62581763Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/products\/7990943555\/metafields\/33058305934.json": {
+            "get": {
+                "summary": "Get a single product metafield using the metafield's nested resource path",
+                "description": "Get a single product metafield using the metafield's nested resource path.",
+                "operationId": "GetAdminProducts7990943555Metafields33058305934Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "put": {
+                "summary": "Update an existing metafield belonging to a product",
+                "description": "Update an existing metafield belonging to a product.",
+                "operationId": "PutAdminProducts7990943555Metafields33058305934Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "delete": {
+                "summary": "Delete a product metafield",
+                "description": "Delete a product metafield.",
+                "operationId": "DeleteAdminProducts7990943555Metafields33058305934Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/countries\/261414723\/provinces.json": {
+            "get": {
+                "summary": "Get all provinces",
+                "description": "Get all provinces.",
+                "operationId": "GetAdminCountries261414723ProvincesJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/discounts\/2951196163\/disable.json": {
+            "post": {
+                "summary": "Disable a discount",
+                "description": "Disable a discount.",
+                "operationId": "PostAdminDiscounts2951196163DisableJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/redirects\/count\/7376372.json": {
+            "get": {
+                "summary": "Get a single URL redirect",
+                "description": "Get a single url redirect.",
+                "operationId": "GetAdminRedirectsCount7376372Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/smart_collections\/count.json": {
+            "get": {
+                "summary": "Get a count of all collections",
+                "description": "Get a count of all collections.",
+                "operationId": "GetAdminSmartCollectionsCountJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/products\/7990943555\/metafields.json": {
+            "get": {
+                "summary": "Get all metafields that belong to a product",
+                "description": "Get all metafields that belong to a product.",
+                "operationId": "GetAdminProducts7990943555MetafieldsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "post": {
+                "summary": "Create a new metafield for a product.",
+                "description": "Create a new metafield for a product..",
+                "operationId": "PostAdminProducts7990943555MetafieldsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/products.json": {
+            "get": {
+                "summary": "Get all products",
+                "description": "Get all products.",
+                "operationId": "GetAdminProductsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "post": {
+                "summary": "Create a new product with multiple product variants",
+                "description": "Create a new product with multiple product variants.",
+                "operationId": "PostAdminProductsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/customer_saved_searches\/2029905294.json": {
+            "put": {
+                "summary": "Update an existing Customer Saved Search",
+                "description": "Update an existing customer saved search.",
+                "operationId": "PutAdminCustomerSavedSearches2029905294Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "delete": {
+                "summary": "Delete an existing Customer Saved Search",
+                "description": "Delete an existing customer saved search.",
+                "operationId": "DeleteAdminCustomerSavedSearches2029905294Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/customer_saved_searches\/1189248515.json": {
+            "get": {
+                "summary": "Get one customer saved search by ID",
+                "description": "Get one customer saved search by id.",
+                "operationId": "GetAdminCustomerSavedSearches1189248515Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/custom_collections\/count.json": {
+            "get": {
+                "summary": "Get a count of all custom collections",
+                "description": "Get a count of all custom collections.",
+                "operationId": "GetAdminCustomCollectionsCountJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/script_tags\/108074126.json": {
+            "put": {
+                "summary": "update a script tag",
+                "description": "Update a script tag.",
+                "operationId": "PutAdminScriptTags108074126Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "delete": {
+                "summary": "remove a script tag",
+                "description": "Remove a script tag.",
+                "operationId": "DeleteAdminScriptTags108074126Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/products\/7990943555\/events.json": {
+            "get": {
+                "summary": "Get all the events from a particular product",
+                "description": "Get all the events from a particular product.",
+                "operationId": "GetAdminProducts7990943555EventsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/themes\/164593742.json": {
+            "put": {
+                "summary": "Update a theme's attributes",
+                "description": "Update a theme's attributes.",
+                "operationId": "PutAdminThemes164593742Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "delete": {
+                "summary": "Delete a theme",
+                "description": "Delete a theme.",
+                "operationId": "DeleteAdminThemes164593742Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/orders\/4554953422\/refunds\/646546.json": {
+            "get": {
+                "summary": "Get a representation of a single refund",
+                "description": "Get a representation of a single refund.",
+                "operationId": "GetAdminOrders4554953422Refunds646546Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/events\/count.json": {
+            "get": {
+                "summary": "Count all the events",
+                "description": "Count all the events.",
+                "operationId": "GetAdminEventsCountJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/recurring_application_charges.json": {
+            "post": {
+                "summary": "Create a new charge",
+                "description": "Create a new charge.",
+                "operationId": "PostAdminRecurringApplicationChargesJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/products\/7990943555\/variants\/34705478094.json": {
+            "delete": {
+                "summary": "Delete a product variant",
+                "description": "Delete a product variant.",
+                "operationId": "DeleteAdminProducts7990943555Variants34705478094Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/comments\/count.json": {
+            "get": {
+                "summary": "Get a count of all comments",
+                "description": "Get a count of all comments.",
+                "operationId": "GetAdminCommentsCountJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/script_tags\/count.json": {
+            "get": {
+                "summary": "Get a count of all script tags",
+                "description": "Get a count of all script tags.",
+                "operationId": "GetAdminScriptTagsCountJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/collects\/count.json": {
+            "get": {
+                "summary": "Get a count of all collects",
+                "description": "Get a count of all collects.",
+                "operationId": "GetAdminCollectsCountJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/customers.json": {
+            "get": {
+                "summary": "Retrieve all customers",
+                "description": "Retrieve all customers.",
+                "operationId": "GetAdminCustomersJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "post": {
+                "summary": "Create a new customer record",
+                "description": "Create a new customer record.",
+                "operationId": "PostAdminCustomersJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/countries\/261414723\/provinces\/4003640003.json": {
+            "get": {
+                "summary": "get a single province",
+                "description": "Get a single province.",
+                "operationId": "GetAdminCountries261414723Provinces4003640003Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "put": {
+                "summary": "Update a province's tax rate",
+                "description": "Update a province's tax rate.",
+                "operationId": "PutAdminCountries261414723Provinces4003640003Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/smart_collections\/408154574.json": {
+            "delete": {
+                "summary": "Delete a single collection",
+                "description": "Delete a single collection.",
+                "operationId": "DeleteAdminSmartCollections408154574Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/countries\/261414723.json": {
+            "get": {
+                "summary": "Show Country",
+                "description": "Show country.",
+                "operationId": "GetAdminCountries261414723Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/comments\/2941387470\/restore.json": {
+            "post": {
+                "summary": "restore a comment",
+                "description": "Restore a comment.",
+                "operationId": "PostAdminComments2941387470RestoreJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/\/admin\/collects.json": {
+            "post": {
+                "summary": "Add a product to a collection",
+                "description": "Add a product to a collection.",
+                "operationId": "PostAdminCollectsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/blogs\/count.json": {
+            "get": {
+                "summary": "Get a count of all blogs",
+                "description": "Get a count of all blogs.",
+                "operationId": "GetAdminBlogsCountJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/countries\/count.json": {
+            "get": {
+                "summary": "Get a count of all countries",
+                "description": "Get a count of all countries.",
+                "operationId": "GetAdminCountriesCountJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/products\/7990943555.json": {
+            "get": {
+                "summary": "Get a single product",
+                "description": "Get a single product.",
+                "operationId": "GetAdminProducts7990943555Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/webhooks\/93838927.json": {
+            "get": {
+                "summary": "Get a single webhook by its id.",
+                "description": "Get a single webhook by its id..",
+                "operationId": "GetAdminWebhooks93838927Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/customers\/3989659651\/addresses\/5436816654.json": {
+            "get": {
+                "summary": "Get a single customers address",
+                "description": "Get a single customers address.",
+                "operationId": "GetAdminCustomers3989659651Addresses5436816654Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/articles\/authors.json": {
+            "get": {
+                "summary": "Get a list of all the authors of articles",
+                "description": "Get a list of all the authors of articles.",
+                "operationId": "GetAdminArticlesAuthorsJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/themes.json": {
+            "get": {
+                "summary": "Get all shop themes",
+                "description": "Get all shop themes.",
+                "operationId": "GetAdminThemesJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            },
+            "post": {
+                "summary": "Create a new theme",
+                "description": "Create a new theme.",
+                "operationId": "PostAdminThemesJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/shipping_zones.json": {
+            "get": {
+                "summary": "Show list of shipping zones",
+                "description": "Show list of shipping zones.",
+                "operationId": "GetAdminShippingZonesJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/checkouts\/count.json": {
+            "get": {
+                "summary": "Get a count of checkouts",
+                "description": "Get a count of checkouts.",
+                "operationId": "GetAdminCheckoutsCountJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/pages\/169722563.json": {
+            "get": {
+                "summary": "Get a single page by its ID",
+                "description": "Get a single page by its id.",
+                "operationId": "GetAdminPages169722563Json",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        "\/admin\/discounts\/2951196163\/enable.json": {
+            "post": {
+                "summary": "Enable a discount",
+                "description": "Enable a discount.",
+                "operationId": "PostAdminDiscounts2951196163EnableJson",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "Body",
+                        "in": "body",
+                        "description": ""
+                    },
+                    {
+                        "name": "Content",
+                        "in": "header",
+                        "description": ""
+                    }
+                ]
+            }
+        }
+    },
+    "components": {
+        "schemas": {
+            "CreateANewCustomCollectionrequest": {
+                "type": "object"
+            },
+            "CustomCollection": {
+                "type": "object",
+                "properties": {
+                    "title": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "Image": {
+                "type": "object",
+                "properties": {
+                    "src": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "UpdateACommentrequest": {
+                "type": "object"
+            },
+            "Comment": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "body": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "author": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "email": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "published_at": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "UpdateASingleCollectionrequest": {
+                "type": "object"
+            },
+            "SmartCollection": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "body_html": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "UpdateAProductAndOneOfItsVariantsrequest": {
+                "type": "object"
+            },
+            "Product": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "title": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "variants": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "Variant": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "price": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "sku": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "CalculateARefundForALineItemAndShippingrequest": {
+                "type": "object"
+            },
+            "Refund": {
+                "type": "object",
+                "properties": {
+                    "refund_line_items": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "Shipping": {
+                "type": "object",
+                "properties": {
+                    "full_refund": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "RefundLineItem": {
+                "type": "object",
+                "properties": {
+                    "line_item_id": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "quantity": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "CreateANewMetafieldForAStore.request": {
+                "type": "object"
+            },
+            "Metafield": {
+                "type": "object",
+                "properties": {
+                    "namespace": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "key": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "value": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "value_type": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "DisableAGiftCardrequest": {
+                "type": "object"
+            },
+            "GiftCard": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "UpdateAWebhookrequest": {
+                "type": "object"
+            },
+            "Webhook": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "address": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "UpdateAnArticlerequest": {
+                "type": "object"
+            },
+            "Article": {
+                "type": "object",
+                "properties": {
+                    "title": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "CancelingAndRefundingAnOrderrequest": {
+                "type": "object",
+                "properties": {
+                    "note": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "amount": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "AddAFraudRiskForProxyDetectionrequest": {
+                "type": "object"
+            },
+            "Risk": {
+                "type": "object",
+                "properties": {
+                    "message": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "recommendation": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "score": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "source": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "cause_cancel": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "display": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "CreateANewBlogrequest": {
+                "type": "object"
+            },
+            "Blog": {
+                "type": "object",
+                "properties": {
+                    "title": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "CreateACountryrequest": {
+                "type": "object"
+            },
+            "Country": {
+                "type": "object",
+                "properties": {
+                    "code": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "tax": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "CreateAFulfillmentServicerequest": {
+                "type": "object"
+            },
+            "FulfillmentService": {
+                "type": "object",
+                "properties": {
+                    "name": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "callback_url": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "inventory_management": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "tracking_support": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "requires_shipping_method": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "format": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "UpdateAPagerequest": {
+                "type": "object"
+            },
+            "Page": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "published": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "UpdatingACustomersPostalCoderequest": {
+                "type": "object"
+            },
+            "Address": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "zip": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "CreateANewCommentForAnArticlerequest": {
+                "type": "object"
+            },
+            "Comment36": {
+                "type": "object",
+                "properties": {
+                    "body": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "author": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "email": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "ip": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "blog_id": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "article_id": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "UpdateAnExistingProductVariantrequest": {
+                "type": "object"
+            },
+            "Variant38": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "option1": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "price": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "CreateANewCollectionrequest": {
+                "type": "object"
+            },
+            "SmartCollection40": {
+                "type": "object",
+                "properties": {
+                    "title": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "published": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "DeleteAFulfillmentEvent.request": {
+                "type": "object"
+            },
+            "Event": {
+                "type": "object",
+                "properties": {
+                    "status": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "CreateACarrierServicerequest": {
+                "type": "object"
+            },
+            "CarrierService": {
+                "type": "object",
+                "properties": {
+                    "name": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "callback_url": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "service_discovery": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "CreateANewPagerequest": {
+                "type": "object"
+            },
+            "Page46": {
+                "type": "object",
+                "properties": {
+                    "title": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "body_html": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "published": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "RemoveAProductFromTheShoprequest": {
+                "type": "object"
+            },
+            "DeleteAnErroneousRiskEntryrequest": {
+                "type": "object"
+            },
+            "Risk51": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "message": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "recommendation": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "source": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "cause_cancel": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "score": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "UpdateACountryrequest": {
+                "type": "object"
+            },
+            "Country53": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "tax": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "ModifyAnExistingProductImagerequest": {
+                "type": "object"
+            },
+            "Image55": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "position": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "metafields": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "Metafield56": {
+                "type": "object",
+                "properties": {
+                    "key": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "value": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "value_type": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "namespace": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "DeleteADiscountrequest": {
+                "type": "object"
+            },
+            "Discount": {
+                "type": "object",
+                "properties": {
+                    "discount_type": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "value": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "code": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "minimum_order_amount": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "CreateAPendingOrderWithAnExistingCustomerrequest": {
+                "type": "object"
+            },
+            "Order": {
+                "type": "object",
+                "properties": {
+                    "line_items": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "financial_status": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "LineItem": {
+                "type": "object",
+                "properties": {
+                    "variant_id": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "quantity": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "Customer": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "AddMetafieldToAnExistingCustomerrequest": {
+                "type": "object"
+            },
+            "Customer64": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "metafields": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "CreateANewArticleForABlogrequest": {
+                "type": "object"
+            },
+            "Article67": {
+                "type": "object",
+                "properties": {
+                    "title": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "author": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "tags": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "body_html": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "published_at": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "UpdateAnExistingStoreMetafield.request": {
+                "type": "object"
+            },
+            "Metafield69": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "value": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "value_type": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "DestroyAFulfillmentServicerequest": {
+                "type": "object"
+            },
+            "FulfillmentService71": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "inventory_management": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "UpdateTheExpiryDateOfAGiftCardrequest": {
+                "type": "object"
+            },
+            "GiftCard73": {
+                "type": "object",
+                "properties": {
+                    "expires_on": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "CreateADiscountrequest": {
+                "type": "object"
+            },
+            "UpdateTrackingNumberForAFulfillment.request": {
+                "type": "object"
+            },
+            "Fulfillment": {
+                "type": "object",
+                "properties": {
+                    "tracking_number": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "id": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "CreateAWebhookrequest": {
+                "type": "object"
+            },
+            "Webhook79": {
+                "type": "object",
+                "properties": {
+                    "topic": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "address": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "format": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "CreateANewRedirect.request": {
+                "type": "object"
+            },
+            "Redirect": {
+                "type": "object",
+                "properties": {
+                    "path": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "target": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "CreateANewGiftCardWithAnAutomaticallyGeneratedCoderequest": {
+                "type": "object"
+            },
+            "GiftCard83": {
+                "type": "object",
+                "properties": {
+                    "initial_value": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "UpdateAFulfillmentServicerequest": {
+                "type": "object"
+            },
+            "CreateANewScriptTagrequest": {
+                "type": "object"
+            },
+            "ScriptTag": {
+                "type": "object",
+                "properties": {
+                    "event": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "src": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "CreateAFulfillmentEvent.request": {
+                "type": "object"
+            },
+            "CreateANewCustomerSavedSearchrequest": {
+                "type": "object"
+            },
+            "CustomerSavedSearch": {
+                "type": "object",
+                "properties": {
+                    "name": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "query": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "DeleteAnOrder.request": {
+                "type": "object"
+            },
+            "Order93": {
+                "type": "object",
+                "properties": {
+                    "customer": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "UpdateAnExistingRiskDetailLineOnAnOrderrequest": {
+                "type": "object"
+            },
+            "CaptureAPreviouslyAuthorizedOrderForTheFullAmountrequest": {
+                "type": "object"
+            },
+            "Transaction": {
+                "type": "object",
+                "properties": {
+                    "kind": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "Activate a oneTime chargerequest": {
+                "type": "object"
+            },
+            "ApplicationCharge": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "name": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "api_client_id": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "price": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "status": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "return_url": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "created_at": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "updated_at": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "test": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "charge_type": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "decorated_return_url": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "DisableADiscountrequest": {
+                "type": "object"
+            },
+            "UpdateAnOrderrequest": {
+                "type": "object"
+            },
+            "CreateANewProductImagerequest": {
+                "type": "object"
+            },
+            "UpdateACustomCollectionrequest": {
+                "type": "object"
+            },
+            "CustomCollection107": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "body_html": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "CreateANewMetafieldForAProduct.request": {
+                "type": "object"
+            },
+            "UpdateAnExistingCustomerSavedSearchrequest": {
+                "type": "object"
+            },
+            "CustomerSavedSearch111": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "name": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "Create a new oneTime application charge.request": {
+                "type": "object"
+            },
+            "ApplicationCharge113": {
+                "type": "object",
+                "properties": {
+                    "name": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "price": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "return_url": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "UpdateAThemesAttributesrequest": {
+                "type": "object"
+            },
+            "Theme": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "role": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "UpdateAScriptTagrequest": {
+                "type": "object"
+            },
+            "ScriptTag117": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "src": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "CreateANewChargerequest": {
+                "type": "object"
+            },
+            "RecurringApplicationCharge": {
+                "type": "object",
+                "properties": {
+                    "name": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "price": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "return_url": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "DeleteAProductImagerequest": {
+                "type": "object"
+            },
+            "DeleteAProductVariantrequest": {
+                "type": "object"
+            },
+            "UpdateAnExistingMetafieldBelongingToAProductrequest": {
+                "type": "object"
+            },
+            "CreateANewCustomerRecordrequest": {
+                "type": "object"
+            },
+            "Customer128": {
+                "type": "object",
+                "properties": {
+                    "first_name": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "last_name": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "email": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "phone": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "verified_email": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "addresses": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "Address129": {
+                "type": "object",
+                "properties": {
+                    "address1": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "city": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "province": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "phone": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "zip": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "last_name": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "first_name": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "country": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "UpdateAProvincesTaxRaterequest": {
+                "type": "object"
+            },
+            "Province": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "tax": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "DeleteAPagerequest": {
+                "type": "object"
+            },
+            "CreateANewRefundForAnOrderrequest": {
+                "type": "object"
+            },
+            "Refund135": {
+                "type": "object",
+                "properties": {
+                    "restock": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "notify": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "note": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "refund_line_items": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "transactions": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "RefundLineItem137": {
+                "type": "object",
+                "properties": {
+                    "line_item_id": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "quantity": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "Transaction138": {
+                "type": "object",
+                "properties": {
+                    "parent_id": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "amount": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "kind": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "gateway": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "AddAProductToACollectionrequest": {
+                "type": "object"
+            },
+            "Collect": {
+                "type": "object",
+                "properties": {
+                    "product_id": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "collection_id": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "DestroyACarrierServicerequest": {
+                "type": "object"
+            },
+            "CreateANewProductWithMultipleProductVariantsrequest": {
+                "type": "object"
+            },
+            "Product144": {
+                "type": "object",
+                "properties": {
+                    "title": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "body_html": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "vendor": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "product_type": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "variants": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "Variant145": {
+                "type": "object",
+                "properties": {
+                    "option1": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "price": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "sku": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "UpdateABlogrequest": {
+                "type": "object"
+            },
+            "Blog147": {
+                "type": "object",
+                "properties": {
+                    "metafields": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "ChangeAnExistingLiquidTemplatesValuerequest": {
+                "type": "object"
+            },
+            "Asset": {
+                "type": "object",
+                "properties": {
+                    "key": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "value": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "CreatingANewAddressForACustomerrequest": {
+                "type": "object"
+            },
+            "Address152": {
+                "type": "object",
+                "properties": {
+                    "address1": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "address2": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "city": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "company": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "first_name": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "last_name": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "phone": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "province": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "country": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "zip": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "name": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "province_code": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "country_code": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "country_name": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "CreateANewThemerequest": {
+                "type": "object"
+            },
+            "Theme154": {
+                "type": "object",
+                "properties": {
+                    "name": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "src": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "role": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "UpdateARedirectrequest": {
+                "type": "object"
+            },
+            "Redirect156": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "path": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "CreateANewProductVariantrequest": {
+                "type": "object"
+            },
+            "Variant158": {
+                "type": "object",
+                "properties": {
+                    "option1": {
+                        "description": "",
+                        "type": "post"
+                    },
+                    "price": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "EnableADiscountrequest": {
+                "type": "object"
+            }
+        }
+    }
+}
