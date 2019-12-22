@@ -1,5 +1,5 @@
 {
-    "id": "3ca25c3e5cef9079be851cb27d0494d5",
+    "id": "c290d68f3f2cd134e47e3b9f064d78cd",
     "name": "Shopify API",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "4027380d967a85fd49ceeb9e6be9a04d",
+            "id": "907bb1090b206fe00a3e29d62ca8cb74",
             "name": "Get a list of all custom collections",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/custom_collections.json",
             "description": "Get a list of all custom collections.",
@@ -37,11 +37,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "824a37b3bbfdecaac152bb4c98805f2e",
+            "id": "9a0f0684292121dbf1def1e479a50694",
             "name": "Create a new custom collection",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/custom_collections.json",
             "description": "Create a new custom collection.",
@@ -75,11 +75,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "27fe6492ce1bc0adc5f865cac38c22c8",
+            "id": "4a2eed712a95a32905dcc78f6f175b6b",
             "name": "Get a single  script tag",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/script_tags\/373484.json",
             "description": "Get a single  script tag.",
@@ -106,11 +106,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "4e3b916ab84651f4408df1f4664fa39b",
+            "id": "b262f00e957bb1aed0aa99db50c1df16",
             "name": "Update a comment",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/comments\/2941387470.json",
             "description": "Update a comment.",
@@ -144,11 +144,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "4714e43b42029cc52fd2d9631ab52b6b",
+            "id": "5cacab460b098df093383ac6de44d0b7",
             "name": "Get a single collection",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/smart_collections\/401912846.json",
             "description": "Get a single collection.",
@@ -175,11 +175,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "95c0350845e4056ff9183376d34fe5ff",
+            "id": "65beebc1450b2c37ae57ecc25efa6997",
             "name": "Update a single collection",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/smart_collections\/401912846.json",
             "description": "Update a single collection.",
@@ -213,11 +213,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "f540c050322300e947e123d67f879bd7",
+            "id": "755c7c44abb93da15f6894b0f49dad70",
             "name": "Update a product and one of its variants",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/products\/9579007950.json",
             "description": "Update a product and one of its variants.",
@@ -251,11 +251,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "138630355f3515c68fb3c08f333965ac",
+            "id": "907897cefac808772a0708f1ed0b13f3",
             "name": "Remove a product from the shop",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/products\/9579007950.json",
             "description": "Remove a product from the shop.",
@@ -289,11 +289,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "3b326374a309f213743129903be37d1b",
+            "id": "656a49dc690756e9d47000dcf4bc350c",
             "name": "Calculate a refund for a line item and shipping",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders\/4554953422\/refunds\/calculate.json",
             "description": "Calculate a refund for a line item and shipping.",
@@ -327,11 +327,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "ebf41cabbf4e88c26a59066be7d370fb",
+            "id": "20dc25404caad7ded7657789c59e9c70",
             "name": "List all collects",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/collects.json",
             "description": "List all collects.",
@@ -358,11 +358,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "8e0cea3e1ff40b9acb863d1710805f1a",
+            "id": "a3a7f93f80aaffc69f2ce91a823b46d1",
             "name": "Get a list of all articles from a certain blog",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/blogs\/62581763\/articles.json",
             "description": "Get a list of all articles from a certain blog.",
@@ -389,11 +389,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "083c7ad4ce1324b51dfb4fa8d2da1b72",
+            "id": "10430a192f4193a4a9f243cb6a4c0536",
             "name": "Create a new article for a blog",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/blogs\/62581763\/articles.json",
             "description": "Create a new article for a blog.",
@@ -427,11 +427,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "b1f4aff6b5dd83172fea001de23fa522",
+            "id": "8dd4d96c1fca5efee9f8ddcfc62c939e",
             "name": "Get all metafields that belong to a store",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/metafields.json",
             "description": "Get all metafields that belong to a store.",
@@ -458,11 +458,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "127d6559318d24e86b43c86a073aae80",
+            "id": "7b7396916aa55e5ce7b1d275699ff2d5",
             "name": "Create a new metafield for a store.",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/metafields.json",
             "description": "Create a new metafield for a store..",
@@ -496,11 +496,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "f48d7d400b47ee342489f524862bee32",
+            "id": "b32fd375253d7c387934b1d884327790",
             "name": "Disable a gift card",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/gift_cards\/61810574\/disable.json",
             "description": "Disable a gift card.",
@@ -534,11 +534,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "00682b04c8e27347bca9de942e1bfdf6",
+            "id": "48cb317922f6c1ffc02c7e5e1838bbff",
             "name": "Update a Webhook",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/webhooks\/503738446.json",
             "description": "Update a webhook.",
@@ -572,11 +572,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "d81e4c0bf8c1ebc8c5bea3693c34a4cc",
+            "id": "904a86f87be8b0fb8ff3f9a36e3c2ad9",
             "name": "Delete a Webhook",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/webhooks\/503738446.json",
             "description": "Delete a webhook.",
@@ -603,11 +603,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "157d3d62a6880ea8d6018d00fb22672f",
+            "id": "ab63cdf3ab9a141e3b18a627e7ba1a57",
             "name": "Get a single article by its ID and the ID of the parent blog",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/blogs\/62581763\/articles\/196805774.json",
             "description": "Get a single article by its id and the id of the parent blog.",
@@ -634,11 +634,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "d065dc0518c72c3a332f2ca5e311c348",
+            "id": "b80b52692b8ba0b9fcdd6576329c2b04",
             "name": "Update an article",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/blogs\/62581763\/articles\/196805774.json",
             "description": "Update an article.",
@@ -672,11 +672,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "0c678551e975616d9bdda957ae3afaa7",
+            "id": "0ff8aba22b2aca94aa3601dbe5822082",
             "name": "Get a single store metafield by ID",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/metafields\/33145232974.json",
             "description": "Get a single store metafield by id.",
@@ -703,11 +703,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "f119051fd22e877b0266e3f471039ad2",
+            "id": "e077695c4da371ea564d3088e25a5707",
             "name": "Update an existing store metafield.",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/metafields\/33145232974.json",
             "description": "Update an existing store metafield..",
@@ -741,11 +741,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "3b33b80b4aa5764f00900463c6421fef",
+            "id": "4b2a0350608bcce985aa937fae074d38",
             "name": "Delete a store metafield",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/metafields\/33145232974.json",
             "description": "Delete a store metafield.",
@@ -772,11 +772,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "044a2b6a36fb020505ecf22155c96cce",
+            "id": "e5bb4f3775c160b58760c2d23097d680",
             "name": "Canceling an Order",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders\/4554953422\/cancel.json",
             "description": "Canceling an order.",
@@ -810,11 +810,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "a6d95a62cf00b11da831c53881d313f1",
+            "id": "8c0dd537e75717bfc89d63b80bdbb021",
             "name": "Show a specific gift card's details",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/gift_cards\/61466894.json",
             "description": "Show a specific gift card's details.",
@@ -841,11 +841,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "9a2c965df10bd725c6d74969c7669dbc",
+            "id": "2708431fa01c94dadf0bd0b2c01309ac",
             "name": "Close a processed order",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders\/4554953422\/close.json",
             "description": "Close a processed order.",
@@ -879,11 +879,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "b778a9ae32ee13e0f5722018f1354baf",
+            "id": "f2ca17763017c25b4d504c6afc3b2954",
             "name": "Get all Order Risks for an Order",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders\/4602125518\/risks.json",
             "description": "Get all order risks for an order.",
@@ -910,11 +910,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "ecf66d61399b9c518f7b888837ff5180",
+            "id": "b245754aac593022ec358c651256f933",
             "name": "Add a fraud risk for Proxy detection",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders\/4602125518\/risks.json",
             "description": "Add a fraud risk for proxy detection.",
@@ -948,11 +948,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "8c7c6a090e4e999cec9f7fd9a36dc31a",
+            "id": "61635995cf0b76dba8b3696d35968c28",
             "name": "Get a list of all blogs",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/blogs.json",
             "description": "Get a list of all blogs.",
@@ -979,11 +979,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "d9fb3b28852c2a8215d5841f206b4941",
+            "id": "f835e4a620bb5786298fa3cf404e4c6a",
             "name": "Create a new blog",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/blogs.json",
             "description": "Create a new blog.",
@@ -1017,11 +1017,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "0ea9923cc0d8c2efca64fb62757269ae",
+            "id": "1db3f6462f666a2a61ead5c366cdb6ab",
             "name": "getting the shops policies",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/policies.json",
             "description": "Getting the shops policies.",
@@ -1048,11 +1048,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "7648d34f6c123cc1e56e5c1d40e93007",
+            "id": "33fa53c1d07096c89f4819433c7407f6",
             "name": "Get all the events from a particular order",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders\/4554953422\/events.json",
             "description": "Get all the events from a particular order.",
@@ -1079,11 +1079,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "f57a5eeaa46007d46299f9d9bc9b71b7",
+            "id": "c798674c49fd0cd13b8ab08ac1773f9d",
             "name": "Count all pages for a shop",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/pages\/count.json",
             "description": "Count all pages for a shop.",
@@ -1110,11 +1110,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "2156a4d00b273514871958f3be70d4ed",
+            "id": "3cc96ec4f28a83a7798c57a6cd98625b",
             "name": "Get a count of transactions for an order",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders\/4554953422\/transactions\/count.json",
             "description": "Get a count of transactions for an order.",
@@ -1141,11 +1141,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "a44e23ccda37fe513131ec670371ae8a",
+            "id": "b5542ab7eaeabdac839a31bdd6460310",
             "name": "Retrieve a count of all gift cards",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/gift_cards\/count.json",
             "description": "Retrieve a count of all gift cards.",
@@ -1172,11 +1172,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "d201d282d959994620b2743e8c67582d",
+            "id": "8fee23d17957547cb92268d79ff5547d",
             "name": "Get a list of all countries",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/countries.json",
             "description": "Get a list of all countries.",
@@ -1203,11 +1203,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "6ced5b09e3b1931bed2493f3924d4dc6",
+            "id": "045ce1bb4f68efa6e254db199cc9e44b",
             "name": "Create a country",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/countries.json",
             "description": "Create a country.",
@@ -1241,11 +1241,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "8ff6802913f42e1c06060af6f49f9e3d",
+            "id": "64b884d691fe79627f4b5c4e66594c0f",
             "name": "List your app's fulfillment services",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/fulfillment_services.json",
             "description": "List your app's fulfillment services.",
@@ -1272,11 +1272,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "83f400c6992c201a69e108f5a7e55492",
+            "id": "9cf11c4707143f3541a7e22207907e06",
             "name": "Create a fulfillment service",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/fulfillment_services.json",
             "description": "Create a fulfillment service.",
@@ -1310,11 +1310,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "4b41d534b787b0cf0bb278245e8b3c32",
+            "id": "7ce338a35ddc4125619193ed74af9612",
             "name": "update a page",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/pages\/216307854.json",
             "description": "Update a page.",
@@ -1348,11 +1348,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "7bcd6318ec778a4d2e5166c80bb83d84",
+            "id": "f88bc054713e87b3843fc1d815bf15e2",
             "name": "Delete a page",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/pages\/216307854.json",
             "description": "Delete a page.",
@@ -1386,11 +1386,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "aab47ac4aead508b324e05df25166930",
+            "id": "56f50e93066ec37d1a9ba19812010093",
             "name": "Updating a customers postal code",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/customers\/3989659651\/addresses\/5484465742.json",
             "description": "Updating a customers postal code.",
@@ -1424,11 +1424,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "b8de3311c15ba243eeb6cde3c8c345ed",
+            "id": "15dd811c0f4b47ecfeee33ffae1c93cf",
             "name": "Removing a customers address",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/customers\/3989659651\/addresses\/5484465742.json",
             "description": "Removing a customers address.",
@@ -1455,11 +1455,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "c1bb70ddb96c4dde7ef7ac0aeb67f84b",
+            "id": "46576d8a105eb4c3c8c50cb13fb41ff7",
             "name": "Get all customers with an address in the Brazil",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/customers\/search.json",
             "description": "Get all customers with an address in the brazil.",
@@ -1493,11 +1493,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "32e0f18bc2047e765099f0e4c2f9ecd0",
+            "id": "ad97d31afe9e8028fb164e593365e7d3",
             "name": "Retrieving all one-time charges since a specified ID",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/application_charges.json",
             "description": "Retrieving all one-time charges since a specified id.",
@@ -1531,11 +1531,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "02d62d55a00bf020cae79f2f72152bb7",
+            "id": "6d991d054d370f520e37beba786adb9f",
             "name": "Create a new one-time application charge.",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/application_charges.json",
             "description": "Create a new one-time application charge..",
@@ -1569,11 +1569,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "db51c40c48e7058c681ea4dd7be9c8eb",
+            "id": "34396ebe458da65ee7cb39de12380d3f",
             "name": "Get a count of all articles from a certain blog",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/blogs\/62581763\/articles\/count.json",
             "description": "Get a count of all articles from a certain blog.",
@@ -1600,11 +1600,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "70d44b814b948ec23c3627f870caa288",
+            "id": "82c81357d92e6f6071be3d6d329d98f6",
             "name": "Get a count of all metafields for a store",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/metafields\/count.json",
             "description": "Get a count of all metafields for a store.",
@@ -1631,11 +1631,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "4a67b02f4fa8adb3f875897d8b99d884",
+            "id": "360435ece708cd67fad42bd82d5772cd",
             "name": "Get a single custom collections",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/custom_collections\/246409795.json",
             "description": "Get a single custom collections.",
@@ -1662,11 +1662,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "3a76dbec32f0c012892a4cbc76c50e46",
+            "id": "92869254f65f07922b69a99a1aa480b9",
             "name": "update a custom collection",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/custom_collections\/246409795.json",
             "description": "Update a custom collection.",
@@ -1700,11 +1700,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "f4b6df6271aa41435e6e34c5f6aca901",
+            "id": "1c56c863df04001df7c03d95a61ebe0e",
             "name": "delete a custom collection",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/custom_collections\/246409795.json",
             "description": "Delete a custom collection.",
@@ -1731,11 +1731,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "fc53e15d4c9d8db89a33f40960482623",
+            "id": "3480ce85f067dae33e078b2d608869d2",
             "name": "Create a new comment for an article",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/\/admin\/comments.json",
             "description": "Create a new comment for an article.",
@@ -1769,11 +1769,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "527036d51f0bcbd9e17682385936cd45",
+            "id": "1f17e09034bc5a8900f93dbbc9a3bd8f",
             "name": "Get all of a customer's addresses",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/customers\/3989659651\/addresses.json",
             "description": "Get all of a customer's addresses.",
@@ -1800,11 +1800,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "b1e5812853b13340ba94bee5bc4e4b43",
+            "id": "4369ccdbbdcfd49dd4014832869baded",
             "name": "Creating a new address for a customer",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/customers\/3989659651\/addresses.json",
             "description": "Creating a new address for a customer.",
@@ -1838,11 +1838,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "6654e749931a6e5b7ad7a13be90fbb31",
+            "id": "689b021f7f66d1f27ecc7295641571be",
             "name": "Get a single comment",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/comments\/#{id}.json",
             "description": "Get a single comment.",
@@ -1876,11 +1876,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "e6fb287a704aa6b5b822e4d00ff3ef45",
+            "id": "e9f52f87e1c16f9de719adf27d71ba37",
             "name": "Get a list of all gift cards",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/gift_cards.json",
             "description": "Get a list of all gift cards.",
@@ -1907,11 +1907,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "8ea906e2b3bd29c7c4af47cb6d7aef5e",
+            "id": "e5c88c8082a14c18f47ab951a70a99c5",
             "name": "Create a new gift card with an automatically generated code",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/gift_cards.json",
             "description": "Create a new gift card with an automatically generated code.",
@@ -1945,11 +1945,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "0f349b4ec15c4bfe3fc20d8adba23db6",
+            "id": "28081f1af6cd4d10385cd4513bf915b8",
             "name": "Get a list of all the tags of articles",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/articles\/tags.json",
             "description": "Get a list of all the tags of articles.",
@@ -1976,11 +1976,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "cff3e61ce455199260cc660937b4dcca",
+            "id": "264027bce536035bace8c7e86a1d38f5",
             "name": "Get a single Order Risk",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders\/4602125518\/risks\/8609858574.json",
             "description": "Get a single order risk.",
@@ -2007,11 +2007,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "8fc89303ca523d24410e326186d50ab9",
+            "id": "4c4fbcbf2c6c24493778433a5d2f912a",
             "name": "Update an existing risk detail line on an order",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders\/4602125518\/risks\/8609858574.json",
             "description": "Update an existing risk detail line on an order.",
@@ -2045,11 +2045,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "107a4939e49625d8d5f01874bca4c3e5",
+            "id": "41b61c47c663a0197e5cbbad0bb2b5b8",
             "name": "Delete an erroneous risk entry",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders\/4602125518\/risks\/8609858574.json",
             "description": "Delete an erroneous risk entry.",
@@ -2083,11 +2083,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "9177d8ab968fa672f09802c703c98eea",
+            "id": "a4fee307dccaa1b084920fed9f856a79",
             "name": "Get a list of all fulfillments for an order.",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders\/4495703502\/fulfillments.json",
             "description": "Get a list of all fulfillments for an order..",
@@ -2114,11 +2114,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "f60d785c6e803d2a78d23dd975426b71",
+            "id": "42000fb595172b02236cdf06c0b721b2",
             "name": "Update an existing product variant",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/variants\/34705478094.json",
             "description": "Update an existing product variant.",
@@ -2152,11 +2152,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "9d7d85a31bbc20d596c762ea1b513b45",
+            "id": "3b4c3d1d337ddf9f9f9997e7085ae5e2",
             "name": "Get all customers who match the criteria",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/customer_saved_searches\/1189248515\/customers.json",
             "description": "Get all customers who match the criteria.",
@@ -2183,11 +2183,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "9a7ad44558840663a517cde88ae7cf1f",
+            "id": "e0d854565e5aaad6cf5cb29e6a22c85a",
             "name": "Get all refunds from a specific order",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders\/4554953422\/refunds.json",
             "description": "Get all refunds from a specific order.",
@@ -2214,11 +2214,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "654c7b68072933290123b62a694733b4",
+            "id": "f9e29563bd04ba128bde9e9dee8be339",
             "name": "Create a new refund for an order",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders\/4554953422\/refunds.json",
             "description": "Create a new refund for an order.",
@@ -2252,11 +2252,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "57130b4f90b08556b67a890c017179ff",
+            "id": "f8555090a7b88dcbb0e971e5d09e7fcc",
             "name": "Cancel a fulfillment.",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders\/4528049998\/fulfillments\/3770145678\/cancel.json",
             "description": "Cancel a fulfillment..",
@@ -2290,11 +2290,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "765a3b53137861d66b27251a59414c78",
+            "id": "5b1b8678071014a284d785746450341f",
             "name": "Get a representation of a single order",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders\/4554953422.json",
             "description": "Get a representation of a single order.",
@@ -2321,11 +2321,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "8e8a65c4a78057e5b4d9aa4a883330af",
+            "id": "2721a48646e317297e1e891c382e4088",
             "name": "Update an order",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders\/4554953422.json",
             "description": "Update an order.",
@@ -2359,11 +2359,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "42fa476bd2356a6c640e15c586ad6d79",
+            "id": "3001217acea9d5c265d19726db19e9ab",
             "name": "Delete an order.",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders\/4554953422.json",
             "description": "Delete an order..",
@@ -2397,11 +2397,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "2c0d71b598de001cefd325fd53bba633",
+            "id": "7c921b5ba32be1f65545a8fb36e5f1b7",
             "name": "Re-opening a closed Order",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders\/4554953422\/open.json",
             "description": "Re-opening a closed order.",
@@ -2435,11 +2435,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "f285a708810b4aa9e0a55c9e3727f6f3",
+            "id": "7f90411fe11789d642941878ddd0f2b2",
             "name": "Complete a fulfillment.",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders\/4528049998\/fulfillments\/3770145678\/complete.json",
             "description": "Complete a fulfillment..",
@@ -2473,11 +2473,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "27f6734852cccec1bcad08850441a429",
+            "id": "5d7c882681cd0a3c293585dee85e42cf",
             "name": "Get all collection",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/smart_collections.json",
             "description": "Get all collection.",
@@ -2504,11 +2504,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "4bed81528df4dd12bdf87f026f242682",
+            "id": "9d77cbdb62a0fce84f19647091665355",
             "name": "Create a new collection",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/smart_collections.json",
             "description": "Create a new collection.",
@@ -2542,11 +2542,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "f92f7f173170643d80202a2a7fb53b0f",
+            "id": "167df9a3622db415888f8c93bfdade14",
             "name": "Delete a fulfillment event.",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders\/4495703502\/fulfillments\/3763917198\/events\/9519874062.json",
             "description": "Delete a fulfillment event..",
@@ -2580,11 +2580,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "9d162b4a2aabd3b5ed05008e1f7e1cd3",
+            "id": "03de57fb66c2a3ed83919a3a76067a60",
             "name": "Shows the same fields as the list action.",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/events\/58706658318.json",
             "description": "Shows the same fields as the list action..",
@@ -2611,11 +2611,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "3bb6ef0a0ed08463d343c163e5b9ced0",
+            "id": "16ffb3b86902dfabf50a2105331666bf",
             "name": "Get a single location",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/locations\/8790723.json",
             "description": "Get a single location.",
@@ -2642,11 +2642,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "a6900233ba8398c4e19fd70752fddaaa",
+            "id": "de1fc159f8ce9b4cc2675e737f2a9ed2",
             "name": "Get all product images",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/products\/7990943555\/images.json",
             "description": "Get all product images.",
@@ -2673,11 +2673,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "e146e9cc44c34f534ebc7a489b990636",
+            "id": "77e1487fdca9a703cd77a60fea834e61",
             "name": "Create a new product image",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/products\/7990943555\/images.json",
             "description": "Create a new product image.",
@@ -2711,11 +2711,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "3687d896e3a1802b885119e336ff7384",
+            "id": "88632940890aed6f73b404ec29f0ded2",
             "name": "Get a list of all webhooks for your shop.",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/webhooks.json",
             "description": "Get a list of all webhooks for your shop..",
@@ -2742,11 +2742,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "060d2db56d2a561ed117de453f1acc83",
+            "id": "e884dc75da5157367f12bfd54a1f8522",
             "name": "Create a webhook",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/webhooks.json",
             "description": "Create a webhook.",
@@ -2780,11 +2780,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "850ea48b62793e269639a8077b8d8881",
+            "id": "257288766f2a21ebf2ef6901d044d4ed",
             "name": "Get a count of all metafields that belong to a product",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/products\/7990943555\/metafields\/count.json",
             "description": "Get a count of all metafields that belong to a product.",
@@ -2811,11 +2811,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "01722ef0d63bf27286a12fb8abad7901",
+            "id": "cad3544f15399a3a888c0c818f64f0a5",
             "name": "Get all orders from a customer",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders.json",
             "description": "Get all orders from a customer.",
@@ -2849,11 +2849,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "2af3e87d7f76ef3c479c279189780769",
+            "id": "74bc8e7cfcfecad203d824d301892f72",
             "name": "Create a pending order with an existing customer",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders.json",
             "description": "Create a pending order with an existing customer.",
@@ -2887,11 +2887,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "8fdfedfdb4fdb573ccbc46376a883989",
+            "id": "cc881b73f106f1a827971475a5f64793",
             "name": "Get a count of all webhooks for your shop.",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/webhooks\/count.json",
             "description": "Get a count of all webhooks for your shop..",
@@ -2918,11 +2918,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "3dac0fac8224be8283c1107fdd631d30",
+            "id": "d7b27c2f57ceb5b55e2a19182c117a3d",
             "name": "update a country",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/countries\/444574734.json",
             "description": "Update a country.",
@@ -2956,11 +2956,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "3922511686dd8b86b72586c536d72604",
+            "id": "dab963afd4cdf5434b17789b1ababc90",
             "name": "delete a country",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/countries\/444574734.json",
             "description": "Delete a country.",
@@ -2987,11 +2987,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "3544884ef59df56a2d88724f735cca26",
+            "id": "9fedeb0aa392499682b2d5420612b4fd",
             "name": "List carrier services",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/carrier_services.json",
             "description": "List carrier services.",
@@ -3018,11 +3018,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "03a2a8281872e0ba60a9b775e1cfa912",
+            "id": "455dc751751d532297ebce5783d26218",
             "name": "Create a carrier service",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/carrier_services.json",
             "description": "Create a carrier service.",
@@ -3056,11 +3056,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "cf1465b832a7551d1152bfb834b8fc53",
+            "id": "cdba01646aadf23838b39a219b726f57",
             "name": "Return a collect with a certain id",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/collects\/20713233987.json",
             "description": "Return a collect with a certain id.",
@@ -3087,11 +3087,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "b2345a4fc2c9f9a29452ee1f27d70cdc",
+            "id": "ee217df1461a35d5be15ca5cef93be3b",
             "name": "Retrieve a discount",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/discounts\/2951196163.json",
             "description": "Retrieve a discount.",
@@ -3118,11 +3118,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "e1b34a6ebd7037b3172074ebe5b01c98",
+            "id": "9d5f108fe5de0092100f8e5a7237fb4b",
             "name": "Delete a discount",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/discounts\/2951196163.json",
             "description": "Delete a discount.",
@@ -3156,11 +3156,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "d93277a7f6a7796d84778e28504023bf",
+            "id": "7ccbb5a5d6dcae8d7f69e3ca584fae1b",
             "name": "Get a single fulfillment service by its ID",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/fulfillment_services\/1357646.json",
             "description": "Get a single fulfillment service by its id.",
@@ -3187,11 +3187,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "1068a1fe16b7db63b1d118888343482e",
+            "id": "8a1beb6203daf07dbdf4b62027d5c526",
             "name": "Update a fulfillment service",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/fulfillment_services\/1357646.json",
             "description": "Update a fulfillment service.",
@@ -3225,11 +3225,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "1c0f035d7f6b132057b81b30d282811c",
+            "id": "7aa7fe8890d2007b0463574c91768222",
             "name": "Destroy a fulfillment service",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/fulfillment_services\/1357646.json",
             "description": "Destroy a fulfillment service.",
@@ -3263,11 +3263,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "a64a4a9a7043617d513b1c8c6824edd9",
+            "id": "38c83f8d4dc29f073a1ca4d667b4de32",
             "name": "assigning a new default address to a customer",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/customers\/3989659651\/addresses\/5436816654\/default.json",
             "description": "Assigning a new default address to a customer.",
@@ -3294,11 +3294,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "763f0a7e0995f248e118f367b74ca866",
+            "id": "58c4a9c31cea94014eea20d0567eed6a",
             "name": "Get a count of variants for a product",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/products\/7990943555\/variants\/count.json",
             "description": "Get a count of variants for a product.",
@@ -3325,11 +3325,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "11757b06777dcba2cb3ea8697d70fd44",
+            "id": "21ab459cfa688cd9b43acea45b925186",
             "name": "Get a list of all pages",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/pages.json",
             "description": "Get a list of all pages.",
@@ -3356,11 +3356,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "f0e3f14cb54468d5a336fdca01d939bd",
+            "id": "10a70c482fe87078edd33fadc5a86879",
             "name": "Create a new page",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/pages.json",
             "description": "Create a new page.",
@@ -3394,11 +3394,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "9fccec0abc30bd2c5aa1aae6c97b4e32",
+            "id": "bbd6709fbb23ed1c095df0dfb9321afb",
             "name": "Mark a comment as Spam",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/comments\/2941387470\/spam.json",
             "description": "Mark a comment as spam.",
@@ -3425,11 +3425,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "a08ee0ec3b7f51ec5635280d93d14954",
+            "id": "1a65942e6252fe895165450e87cae8e9",
             "name": "destroying multiple customer addresses",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/customers\/3989659651\/addresses\/set.json",
             "description": "Destroying multiple customer addresses.",
@@ -3470,11 +3470,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "85717238ef40a9af19e873d0185e5539",
+            "id": "755b6511608c17387ec12031cd160cb2",
             "name": "Get a product variant by id",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/\/variants\/25831837123.json",
             "description": "Get a product variant by id.",
@@ -3501,11 +3501,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "0464c10f2bd2383082a244ba4964848f",
+            "id": "679860e994e436e2dd18aaf3caabae42",
             "name": "Get a list of all theme assets",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/themes\/110163843\/assets.json",
             "description": "Get a list of all theme assets.",
@@ -3532,11 +3532,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "2a3bd9e500c4693f4fafbd8e287001db",
+            "id": "d3019ead34018d10c4230f388c2f772e",
             "name": "Change an existing liquid template's value",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/themes\/110163843\/assets.json",
             "description": "Change an existing liquid template's value.",
@@ -3570,11 +3570,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "245234f512a1aa35ef5ae08937f82a9f",
+            "id": "dafc38b07b2a96f6c3eca93b739b77ab",
             "name": "Remove assets from your shop",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/themes\/110163843\/assets.json",
             "description": "Remove assets from your shop.",
@@ -3601,11 +3601,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "e0274261d4995bb287cc39aa219332d5",
+            "id": "b65d11b1dde10831841b8b3113c3796d",
             "name": "Get a countt of all URL redirect",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/redirects\/count.json",
             "description": "Get a countt of all url redirect.",
@@ -3632,11 +3632,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "46e78277013521ad6aa6c7bf214a2b6f",
+            "id": "483c1fab61611ccb9301f36a3632aadf",
             "name": "Hack Authentication",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/account\/login",
             "description": "Hack authentication.",
@@ -3677,11 +3677,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "b30469ae320c5063cd3ac3312d288893",
+            "id": "d27df1e456c8b650a59a67c2a71433a1",
             "name": "Get a list of all comments",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/comments.json",
             "description": "Get a list of all comments.",
@@ -3708,11 +3708,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "c7f528de848472fc7abb2aa0d675be06",
+            "id": "22f79b418baa633765ecb52bfd90d875",
             "name": "Get a single product image by id",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/products\/7990943555\/images\/19489404942.json",
             "description": "Get a single product image by id.",
@@ -3739,11 +3739,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "b737d91b16e54767d7b60c1a296c387a",
+            "id": "e5bdf448040b0ae713c3bafb107f0cbb",
             "name": "Modify an existing product image",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/products\/7990943555\/images\/19489404942.json",
             "description": "Modify an existing product image.",
@@ -3777,11 +3777,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "25a1fd5de8d3c13e43d1a41613dcc241",
+            "id": "9c335ad9fe7e95879dabb5f2c7d14705",
             "name": "Delete a product image",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/products\/7990943555\/images\/19489404942.json",
             "description": "Delete a product image.",
@@ -3815,11 +3815,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "0af36130cb9868b6f9568f9af33f987c",
+            "id": "0a6b2f93e76ccf43407d09d420d4b4cd",
             "name": "Remove a comment",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/comments\/2941387470\/remove.json",
             "description": "Remove a comment.",
@@ -3846,11 +3846,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "c68f9348322840381c86dcb7868c23e2",
+            "id": "e197b48702f7724529b3df8920b266d0",
             "name": "Get a count of all provinces",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/countries\/261414723\/provinces\/count.json",
             "description": "Get a count of all provinces.",
@@ -3877,11 +3877,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "ef5cc1a403f0f8ecf6b67a28c6ed690e",
+            "id": "9482d741b9ef4ce9370363710a573bab",
             "name": "Get all variants for a product",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/products\/7990943555\/variants.json",
             "description": "Get all variants for a product.",
@@ -3908,11 +3908,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "4f0e8d0e96c1388cda0a48ce39adbac2",
+            "id": "e5d39c510cf12511991a5e567412b95a",
             "name": "Create a new product variant",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/products\/7990943555\/variants.json",
             "description": "Create a new product variant.",
@@ -3946,11 +3946,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "d5fcb73ebca26efdddb98784cad62aca",
+            "id": "1d263df521691d868533c5e8ef854313",
             "name": "Get a single theme",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/themes\/110163843.json",
             "description": "Get a single theme.",
@@ -3977,11 +3977,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "99be1b9246dcd8c262d66a1c1277bb0b",
+            "id": "fa0b919a5c8a26cc8ec1e12da62843a2",
             "name": "Add metafield to an existing customer",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/customers\/5438892686.json",
             "description": "Add metafield to an existing customer.",
@@ -4015,11 +4015,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "b81fdef6c487ed2eb9ad30744054bfe5",
+            "id": "339bda82277380fd3b37409707f60352",
             "name": "Remove an existing customer",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/customers\/5438892686.json",
             "description": "Remove an existing customer.",
@@ -4046,11 +4046,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "83a746cbb57c7f3384e76dc88bb478f1",
+            "id": "08600e454fce7097537b9b341800eafe",
             "name": "Get a count of all customer saved searches",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/customer_saved_searches\/count.json",
             "description": "Get a count of all customer saved searches.",
@@ -4077,11 +4077,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "e56a97bd49c7a406c1b0e35bef6f62d0",
+            "id": "e20bc89db16e9108b1f721be45324aca",
             "name": "Update the expiry date of a gift card",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/gift_cards\/61810574.json",
             "description": "Update the expiry date of a gift card.",
@@ -4115,11 +4115,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "697b48162a9c0d4ea9c452165eff9d1c",
+            "id": "e382ae9725601c12062c42be3f1cf987",
             "name": "List all discounts",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/discounts.json",
             "description": "List all discounts.",
@@ -4146,11 +4146,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "8572935e40f243d37af50cabd5157c81",
+            "id": "9acc9617bac7267b4cca584aa342c872",
             "name": "Create a discount",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/discounts.json",
             "description": "Create a discount.",
@@ -4184,11 +4184,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "2ab0b5f8cb90d5e7ff9d7f7f406decf2",
+            "id": "fe148cbc542f329b46ef26c7d95b4c97",
             "name": "Get the Representation of a specific fulfillment.",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders\/4528049998\/fulfillments\/3770145678.json",
             "description": "Get the representation of a specific fulfillment..",
@@ -4215,11 +4215,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "099126283334d991d0ce3e80ef5788f1",
+            "id": "915581243e7fff1bef33c61d541126ce",
             "name": "Update tracking number for a fulfillment.",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders\/4528049998\/fulfillments\/3770145678.json",
             "description": "Update tracking number for a fulfillment..",
@@ -4253,11 +4253,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "5d07d87815dc90a092cfbd310c7ec2bc",
+            "id": "185588274c4677a4cbceaed4be1ed25d",
             "name": "Update a blog",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/blogs\/92408974.json",
             "description": "Update a blog.",
@@ -4291,11 +4291,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "7e25eedd2b2c4fe46e856703d3c0995c",
+            "id": "498fb29babf1eee048c29c39d39c39fe",
             "name": "Delete a blog",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/blogs\/92408974.json",
             "description": "Delete a blog.",
@@ -4322,11 +4322,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "bfbd37244b8a85d3ef4c461b8bcd7304",
+            "id": "ee507f9ed11e00dc38c8bba2ad67314e",
             "name": "Get a list of all locations for a shop",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/locations.json",
             "description": "Get a list of all locations for a shop.",
@@ -4353,11 +4353,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "53432323a9cdfe9b13ca5b52809f3b7d",
+            "id": "a80b5a9cb0c64c8ac29a2c4e4e769363",
             "name": "Fetch a fulfillment event.",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders\/4528049998\/fulfillments\/3770145678\/events\/#{event_id}.json",
             "description": "Fetch a fulfillment event..",
@@ -4391,11 +4391,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "cc3ca27b60278220a67b061553f22c07",
+            "id": "2d83e3e8bb872afefe72c98aec92a63c",
             "name": "Update a carrier service",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/carrier_services\/13841038.json",
             "description": "Update a carrier service.",
@@ -4422,11 +4422,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "93e75192406a9bc19e42fe523d16b2b0",
+            "id": "40dbc371874a51de6b0129c134a6245a",
             "name": "Destroy a carrier service",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/carrier_services\/13841038.json",
             "description": "Destroy a carrier service.",
@@ -4460,11 +4460,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "e3f3ece1e055cb1f3c2ce4cdbd7256e6",
+            "id": "199d14fb54fddac55d8f5deb3c82c800",
             "name": "Get all transactions for an order",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders\/4554953422\/transactions.json",
             "description": "Get all transactions for an order.",
@@ -4491,11 +4491,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "ffcb70359de97ef6be8978eb4c991548",
+            "id": "06b3c36ef5bf5c47f97463667258f7d2",
             "name": "Capture a previously authorized order for the full amount",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders\/4554953422\/transactions.json",
             "description": "Capture a previously authorized order for the full amount.",
@@ -4529,11 +4529,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "2c424bf17a92c02a1de69fd5e838e136",
+            "id": "202043c88ff93f4f56a6716c3881656a",
             "name": "Transition a fulfillment from pending to open.",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders\/4528049998\/fulfillments\/3770145678\/open.json",
             "description": "Transition a fulfillment from pending to open..",
@@ -4567,11 +4567,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "e1b2fd48f80f84ee2b77a377238029df",
+            "id": "633e64c549be34303c91db947b7af75a",
             "name": "Delete an article of a blog tags of articles",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/blogs\/62581763\/articles\/197247246.json",
             "description": "Delete an article of a blog tags of articles.",
@@ -4598,11 +4598,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "502be6fac2434bd460aa169d224af87a",
+            "id": "14caaa71e437253d167585410d8c97d8",
             "name": "Approve a comment",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/comments\/2941387470\/approve.json",
             "description": "Approve a comment.",
@@ -4629,11 +4629,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "cdecd842aae153a60c4867c26398fb84",
+            "id": "8c29444c98868ed3851e87ffcc73b023",
             "name": "List all abandoned checkouts",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/checkouts.json",
             "description": "List all abandoned checkouts.",
@@ -4660,11 +4660,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "603a17bac2a8bb87e1298962dc211f0b",
+            "id": "797275e089dcbf9acdb640b03115de18",
             "name": "Update a redirect",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/redirects\/293743566.json",
             "description": "Update a redirect.",
@@ -4698,11 +4698,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "e047854d48e513d91e66f0d51a345f1d",
+            "id": "e1a5bc76dd5629d2cdf7db934ff5e6cb",
             "name": "delete a redirect",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/redirects\/293743566.json",
             "description": "Delete a redirect.",
@@ -4729,11 +4729,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "32f8cce39f9c46c44f724ab550ae585b",
+            "id": "1ed3fdce212618ed936b71800f9479b2",
             "name": "Get all gift cards that matches the query",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/gift_cards\/search.json",
             "description": "Get all gift cards that matches the query.",
@@ -4767,11 +4767,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "559511167b6e542fc6b0fa6c55880c7e",
+            "id": "f336e6f70331a68934c301e0c39180fc",
             "name": "Get all customer saved searches for a shop",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/customer_saved_searches.json",
             "description": "Get all customer saved searches for a shop.",
@@ -4798,11 +4798,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "c2b0a340e1c444344969cba4c25b6453",
+            "id": "9d778bb09dd91a9a8aa7fa651a3a5687",
             "name": "Create a new Customer Saved Search",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/customer_saved_searches.json",
             "description": "Create a new customer saved search.",
@@ -4836,11 +4836,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "e07b2f091c1f755c9648508fb3292f13",
+            "id": "65d3a0124396dcebb7184ac8571884a4",
             "name": "Get a single customer by ID",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/customers\/3989659651.json",
             "description": "Get a single customer by id.",
@@ -4867,11 +4867,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "550930ccdbaaf5b8394f1cac5fba42fe",
+            "id": "752bd1ca355a82c3e9de699c5be2e34d",
             "name": "Count all products",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/products\/count.json",
             "description": "Count all products.",
@@ -4898,11 +4898,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "781fd38681af8a0c78a90dd719b75fb5",
+            "id": "284514966180784980a4cd48aad41249",
             "name": "Get a list of all URL redirect",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/redirects.json",
             "description": "Get a list of all url redirect.",
@@ -4929,11 +4929,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "703f0bd0bca97e565b09fba6fd4d61f7",
+            "id": "b081c1425c8524efd3c5b122fb38e480",
             "name": "Create a new redirect.",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/redirects.json",
             "description": "Create a new redirect..",
@@ -4967,11 +4967,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "26d24c9e330cc4e3873e386782dcce82",
+            "id": "6f0c7cb4d1d077c3b6d1b5ea26b2d421",
             "name": "Count all orders",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders\/count.json",
             "description": "Count all orders.",
@@ -4998,11 +4998,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "98dacb39e7af726ee2bd1ed0bf4d5dcf",
+            "id": "92c162568ca075e4815b9b17e94c0ae9",
             "name": "Remove a product from a collection",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/collects\/921728736.json",
             "description": "Remove a product from a collection.",
@@ -5029,11 +5029,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "a132a2524473eac958587f97ec3766f5",
+            "id": "668342ef60af9f1b451f82b4c951e767",
             "name": "Get a list of all fulfillment events for a fulfillment",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders\/4528049998\/fulfillments\/3770145678\/events.json",
             "description": "Get a list of all fulfillment events for a fulfillment.",
@@ -5060,11 +5060,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "f9b2e633a41426fa088f4f74ce62abdf",
+            "id": "0e1ebcc3459f6b19724fc294804d28ee",
             "name": "Mark a comment as not spam",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/comments\/2941387470\/not_spam.json",
             "description": "Mark a comment as not spam.",
@@ -5091,11 +5091,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "9219386abf72cb3f60a935ae7f6bf72f",
+            "id": "7f1c1fc318679f06fa90f11e726e5098",
             "name": "Get a count of all product images",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/products\/7990943555\/images\/count.json",
             "description": "Get a count of all product images.",
@@ -5122,11 +5122,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "6fd64dcea39ab54db0d31097060e98b0",
+            "id": "61a4bb8414a4cb2e19eb0d262e6d81b5",
             "name": "Get a list of all script tags",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/script_tags.json",
             "description": "Get a list of all script tags.",
@@ -5153,11 +5153,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "b54668c314683386dd99e49015a14bfa",
+            "id": "9a1819e42b6371ccb2c64a9fe78e9cef",
             "name": "create a new script tag",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/script_tags.json",
             "description": "Create a new script tag.",
@@ -5191,11 +5191,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "f706e3dcee66195211f801b9e2f04bbf",
+            "id": "fd95057d364fbcae59619d5aa1fdeef6",
             "name": "Create a fulfillment event.",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders\/4495703502\/fulfillments\/3763917198\/events.json",
             "description": "Create a fulfillment event..",
@@ -5229,11 +5229,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "6de5d1771637681a9644c89abc124ab2",
+            "id": "3e3ca9be67a01bf50b67b2fc91cbbb08",
             "name": "Get a count of all customers",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/customers\/count.json",
             "description": "Get a count of all customers.",
@@ -5260,11 +5260,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "0015ac15253cfe7917a35c20a60c911d",
+            "id": "0613a9c5692d186625257709a3012547",
             "name": "Get a specific transaction",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders\/4554953422\/transactions\/5016037966.json",
             "description": "Get a specific transaction.",
@@ -5291,11 +5291,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "f34be8c4e8e738b461ad1f3262bb85ae",
+            "id": "3cc9009ab7f4babcadd6b05fae8cf1ce",
             "name": "Retrieve one-time application charge",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/application_charges\/1.json",
             "description": "Retrieve one-time application charge.",
@@ -5322,11 +5322,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "1430dac021f8bda45354fc8b87c76322",
+            "id": "4de24ebbe3e6b6f685a0eb80c07737c3",
             "name": "Count all the total number of fulfillments for an order.",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders\/4528049998\/fulfillments\/count.json",
             "description": "Count all the total number of fulfillments for an order..",
@@ -5353,11 +5353,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "1643962291ec19caec45c7c154dbcfa6",
+            "id": "0730a9aba9e9231d4b8e5d140228b8a6",
             "name": "Activate a one-time charge",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/application_charges\/675931192\/activate.json",
             "description": "Activate a one-time charge.",
@@ -5391,11 +5391,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "20789ba881b303f081cdf4ec3a144be0",
+            "id": "43ed9a0765257a48100785b8371e3011",
             "name": "Get the configuration of the shop account",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/shop.json",
             "description": "Get the configuration of the shop account.",
@@ -5422,11 +5422,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "ba98daf5ec390ca3b76c006530bb103c",
+            "id": "5fbdf8094f4a90d33d27183533b71b00",
             "name": "Get a single blog by its ID",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/blogs\/62581763.json",
             "description": "Get a single blog by its id.",
@@ -5453,11 +5453,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "fdfd098ef4b429b89de9aebf2a0fa61f",
+            "id": "b7e11927bb2931675cc50a056059fa6f",
             "name": "Get a single product metafield using the metafield's nested resource path",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/products\/7990943555\/metafields\/33058305934.json",
             "description": "Get a single product metafield using the metafield's nested resource path.",
@@ -5484,11 +5484,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "5c459e9331dd2e7dc31e416a496d31d3",
+            "id": "7dcde1d3278207e9a2462746534c7652",
             "name": "Update an existing metafield belonging to a product",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/products\/7990943555\/metafields\/33058305934.json",
             "description": "Update an existing metafield belonging to a product.",
@@ -5522,11 +5522,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "47ec2668fd46996093c0112b2adb94fe",
+            "id": "4b7b84799dc7e02a610b99f932c35619",
             "name": "Delete a product metafield",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/products\/7990943555\/metafields\/33058305934.json",
             "description": "Delete a product metafield.",
@@ -5553,11 +5553,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "518f2756bad9c44543c65e98bf49fccf",
+            "id": "c4e6b1c1b3cab36751a9db4d9f5330d2",
             "name": "Get all provinces",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/countries\/261414723\/provinces.json",
             "description": "Get all provinces.",
@@ -5584,11 +5584,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "76de0a1e5749168394b5e836e71a9106",
+            "id": "605cce32a17d6ba980aa8788b90d0c60",
             "name": "Disable a discount",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/discounts\/2951196163\/disable.json",
             "description": "Disable a discount.",
@@ -5622,11 +5622,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "1b9223283e9535af9801d70d013f37d1",
+            "id": "1380366c8ebf203644ce17e4cbee72bd",
             "name": "Get a single URL redirect",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/redirects\/count\/7376372.json",
             "description": "Get a single url redirect.",
@@ -5653,11 +5653,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "03c722aa68141407916c8d40c94fa0d6",
+            "id": "d403baac6b8d254410f6e2d84af290ad",
             "name": "Get a count of all collections",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/smart_collections\/count.json",
             "description": "Get a count of all collections.",
@@ -5684,11 +5684,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "4a2d17b94531571d07b30acadccd9b60",
+            "id": "6296fef615372401ffab37fc209c4162",
             "name": "Get all metafields that belong to a product",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/products\/7990943555\/metafields.json",
             "description": "Get all metafields that belong to a product.",
@@ -5715,11 +5715,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "0cda89ad85130403573435c1d0310c6e",
+            "id": "b7f0edcad4eab64010b21a27e1e390cf",
             "name": "Create a new metafield for a product.",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/products\/7990943555\/metafields.json",
             "description": "Create a new metafield for a product..",
@@ -5753,11 +5753,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "04d06d5a179886b09f6beecb3d4a7bce",
+            "id": "28eec821f1050e3da3a80907d74eed42",
             "name": "Get all products",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/products.json",
             "description": "Get all products.",
@@ -5784,11 +5784,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "dfd8fcaf09fe2b556ee78755f82d2e3b",
+            "id": "86b64983c561deb4b9b55847a3c6dfcc",
             "name": "Create a new product with multiple product variants",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/products.json",
             "description": "Create a new product with multiple product variants.",
@@ -5822,11 +5822,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "ff2a336ee8c9ba2cdba342b436002a27",
+            "id": "9491504535d9441810db10fcd9fb4433",
             "name": "Update an existing Customer Saved Search",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/customer_saved_searches\/2029905294.json",
             "description": "Update an existing customer saved search.",
@@ -5860,11 +5860,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "944e6d8feb46260647e2ed55912e7f7c",
+            "id": "c5d702dd12c365a7fadb8b1ba02c8d25",
             "name": "Delete an existing Customer Saved Search",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/customer_saved_searches\/2029905294.json",
             "description": "Delete an existing customer saved search.",
@@ -5891,11 +5891,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "1082eaf46ea1568aedc044c317fb339e",
+            "id": "4b00729954f17eb434ab9f07f871c97a",
             "name": "Get one customer saved search by ID",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/customer_saved_searches\/1189248515.json",
             "description": "Get one customer saved search by id.",
@@ -5922,11 +5922,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "0bffd9d8e0eb7d23d77ef1f45174993f",
+            "id": "c7378993651dad595e12aa4e389d3fd8",
             "name": "Get a count of all custom collections",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/custom_collections\/count.json",
             "description": "Get a count of all custom collections.",
@@ -5953,11 +5953,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "da16df6869c50a8b2610ac8054c8b74f",
+            "id": "05c84672f3b3e4b0d1d76a1eb0eb8651",
             "name": "update a script tag",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/script_tags\/108074126.json",
             "description": "Update a script tag.",
@@ -5991,11 +5991,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "f36108a1ce353f8868e7de9b12b835d7",
+            "id": "3ebdf428db6b37bc1f8b8c9bc84b1cc1",
             "name": "remove a script tag",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/script_tags\/108074126.json",
             "description": "Remove a script tag.",
@@ -6022,11 +6022,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "4eedf3af105d4d31bdd0e5835a100d82",
+            "id": "3682422621085fc0d1d3cb22b6f022fa",
             "name": "Get all the events from a particular product",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/products\/7990943555\/events.json",
             "description": "Get all the events from a particular product.",
@@ -6053,11 +6053,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "bcf7b5e0c7c0177b7542fd4328ba3e81",
+            "id": "5ddd1ebef45baedd1387eb40479ef228",
             "name": "Update a theme's attributes",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/themes\/164593742.json",
             "description": "Update a theme's attributes.",
@@ -6091,11 +6091,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "d98ec149c9bfcf9f54f0b62fea608ca4",
+            "id": "ecc06bbdaff26ca98d28d01ec2ab4ff3",
             "name": "Delete a theme",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/themes\/164593742.json",
             "description": "Delete a theme.",
@@ -6122,11 +6122,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "58df28b78dbdb931399a39021095ca08",
+            "id": "059502e534676e35002c5005065461c1",
             "name": "Get a representation of a single refund",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/orders\/4554953422\/refunds\/646546.json",
             "description": "Get a representation of a single refund.",
@@ -6153,11 +6153,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "30c9c51a62b046a44a50b6f6a3493e17",
+            "id": "a3f96a6374e1269c17e7f3facd35cea1",
             "name": "Count all the events",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/events\/count.json",
             "description": "Count all the events.",
@@ -6184,11 +6184,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "2e4674909aed83c5baa738419b30fbd2",
+            "id": "ec8f7cb19eac5cdbfcba1ae5175ecc2a",
             "name": "Create a new charge",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/recurring_application_charges.json",
             "description": "Create a new charge.",
@@ -6222,11 +6222,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "fe6010b03b28984a142192e43491638f",
+            "id": "6526860b9b4474c465033c0a00553299",
             "name": "Delete a product variant",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/products\/7990943555\/variants\/34705478094.json",
             "description": "Delete a product variant.",
@@ -6260,11 +6260,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "79a9c207deb1dae1ffcbaabbf93072b9",
+            "id": "65e1665d895db15aceb07a7ead7d80f6",
             "name": "Get a count of all comments",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/comments\/count.json",
             "description": "Get a count of all comments.",
@@ -6291,11 +6291,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "e0030fd4fc1b8effdd534f07131080ee",
+            "id": "2b5809639ddb150560cc11ea53940431",
             "name": "Get a count of all script tags",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/script_tags\/count.json",
             "description": "Get a count of all script tags.",
@@ -6322,11 +6322,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "585dd85216f6568efc100fb79395d879",
+            "id": "0c21c33d996f56c9ac102810f319e759",
             "name": "Get a count of all collects",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/collects\/count.json",
             "description": "Get a count of all collects.",
@@ -6353,11 +6353,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "e743385a540d92b122179bb44a76f9be",
+            "id": "8ce2f44648994019ce932a4a074ad0ae",
             "name": "Retrieve all customers",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/customers.json",
             "description": "Retrieve all customers.",
@@ -6384,11 +6384,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "7f5c262502cb5c3682ac7559202f917a",
+            "id": "07eff0f9403db3ec7c29d2a5af7c5452",
             "name": "Create a new customer record",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/customers.json",
             "description": "Create a new customer record.",
@@ -6422,11 +6422,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "e3b3d756a8ee469f92c0292929c501dc",
+            "id": "d815122554d83ecdbddef0bdae521188",
             "name": "get a single province",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/countries\/261414723\/provinces\/4003640003.json",
             "description": "Get a single province.",
@@ -6453,11 +6453,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "dd8b3775a3927edf6bc8c1b3ef76a378",
+            "id": "e500b2ee2e2443bad0f5baf9f8badd86",
             "name": "Update a province's tax rate",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/countries\/261414723\/provinces\/4003640003.json",
             "description": "Update a province's tax rate.",
@@ -6491,11 +6491,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "8ceba249ba8f70db4fb28eb6a260cc13",
+            "id": "0dc4a5082014bbb67353561b6178e63e",
             "name": "Delete a single collection",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/smart_collections\/408154574.json",
             "description": "Delete a single collection.",
@@ -6522,11 +6522,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "4742c7af143a0659d487b1972be391f8",
+            "id": "3b5539484e061ba16bf1703226c3f240",
             "name": "Show Country",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/countries\/261414723.json",
             "description": "Show country.",
@@ -6553,11 +6553,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "a8bf2e079dfb3e81226540b40678bfa5",
+            "id": "57c400110f6b42f8b08e7b36141a05b5",
             "name": "restore a comment",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/comments\/2941387470\/restore.json",
             "description": "Restore a comment.",
@@ -6584,11 +6584,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "640490a6a3fd2b02c56377c2b05af908",
+            "id": "07a9bbd49dad59e4c8fd29c9abfa6272",
             "name": "Add a product to a collection",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/\/admin\/collects.json",
             "description": "Add a product to a collection.",
@@ -6622,11 +6622,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "0b0e127941404baf3e6951e8e26f2af7",
+            "id": "e7a8606e88c509e745105d94696eaa56",
             "name": "Get a count of all blogs",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/blogs\/count.json",
             "description": "Get a count of all blogs.",
@@ -6653,11 +6653,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "e96af4655a904f014803a1e7db7f1937",
+            "id": "d81a2eddd6fa1642439b2c737d4ff8ea",
             "name": "Get a count of all countries",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/countries\/count.json",
             "description": "Get a count of all countries.",
@@ -6684,11 +6684,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "2e75a2fc11f20c362412a5df8a89dae7",
+            "id": "6901bdc1f7e424a5ba74d2ced723fab1",
             "name": "Get a single product",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/products\/7990943555.json",
             "description": "Get a single product.",
@@ -6715,11 +6715,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "53eb6303437b936881e262b3fc8cc705",
+            "id": "1569baf4d3391e1ba09099afa7c020f9",
             "name": "Get a single webhook by its id.",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/webhooks\/93838927.json",
             "description": "Get a single webhook by its id..",
@@ -6746,11 +6746,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "24d49038ff0ba08e7169ae66882b093b",
+            "id": "c31f067602b2b5fcd1b7aee5ee049499",
             "name": "Get a single customers address",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/customers\/3989659651\/addresses\/5436816654.json",
             "description": "Get a single customers address.",
@@ -6777,11 +6777,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "9569f1e817273ed5fc2ebdbfccff7535",
+            "id": "d684c03ae9ca0b0a40dbe2d2d207286f",
             "name": "Get a list of all the authors of articles",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/articles\/authors.json",
             "description": "Get a list of all the authors of articles.",
@@ -6808,11 +6808,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "3ea38315ecf280710cfe1e9f712e81ef",
+            "id": "d39c0326991707b567ff7218d49a4a41",
             "name": "Get all shop themes",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/themes.json",
             "description": "Get all shop themes.",
@@ -6839,11 +6839,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "620ce57673dc0b3db4b3f69b62b117dc",
+            "id": "6352d9dfc7abf8a075fed7524242a0e9",
             "name": "Create a new theme",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/themes.json",
             "description": "Create a new theme.",
@@ -6877,11 +6877,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "d7ea658f2e900390d1b5d7d498ab6e3b",
+            "id": "d0ea281ca5e4536fdff2636f2f578ead",
             "name": "Show list of shipping zones",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/shipping_zones.json",
             "description": "Show list of shipping zones.",
@@ -6908,11 +6908,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "ecc901d37a1d1454eb54edfcb636a057",
+            "id": "f7b2d3c17ca90d9bbd4540d51f50c0e7",
             "name": "Get a count of checkouts",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/checkouts\/count.json",
             "description": "Get a count of checkouts.",
@@ -6939,11 +6939,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "f55afd7e37eca3d399bb7b8576b02256",
+            "id": "c9cd5dba01f1658f2bdae4b3dfd76f1e",
             "name": "Get a single page by its ID",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/pages\/169722563.json",
             "description": "Get a single page by its id.",
@@ -6970,11 +6970,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         },
         {
-            "id": "5896527ee30a47df9140d9e7f3353343",
+            "id": "c44bcee3299b82d5363daab44b8fc4c9",
             "name": "Enable a discount",
             "url": "httpsDefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com\/\/admin\/discounts\/2951196163\/enable.json",
             "description": "Enable a discount.",
@@ -7008,7 +7008,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3ca25c3e5cef9079be851cb27d0494d5",
+            "collectionId": "c290d68f3f2cd134e47e3b9f064d78cd",
             "rawModeData": ""
         }
     ]
